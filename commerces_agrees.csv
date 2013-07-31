@@ -1,0 +1,1194 @@
+DEA_CODE;DEA_NOM_COMMERCE;ADRESSE_LIVRAISON;DEA_CODE_POSTAL_LIVRAISON;DEA_COMMUNE_LIVRAISON;INSEE_LIVRAISON;X_GEOCODAGE;Y_GEOCODAGE;TCO_LIBELLE
+510001;  ;11   R. Mozart;92230;Gennevilliers;92036;596217,664882;2436736,790059;tabac librairie
+510002;Tabac Loto Cadeaux;81   Bd Voltaire;92600;Asnières-sur-Seine;92004;596788,607000;2435244,853000;tabac
+510003;Tabac Librairie Jeu;60   Av. Jean Moulin;92390;Villeneuve-la-Garenne;92078;599590,798209;2438033,160358;tabac presse
+510004;Le Boyard;2   Av. Michelet;93400;Saint-Ouen;93070;600565,382000;2435089,567000;café tabac
+510006;Le Rapide;31   R. d'Anjou;92600;Asnières-sur-Seine;92004;596061,500000;2434132,900000;café tabac
+510007;L‘ancienne Poste;45   R. Jules Larose;92230;Gennevilliers;92036;597408,747008;2436953,287592;café tabac
+510008;Le Viking;2   R. Alexandre;92230;Gennevilliers;92036;598834,602882;2436045,085150;café tabac
+510009;Le Chaldée;169   Rue du docteur Bauer;93400;Saint-Ouen;93070;600869,372377;2433846,817289;café tabac
+510010;Le Balto;66   R. de la Sablière;92600;Asnières-sur-Seine;92004;595009,246825;2434204,392878;café tabac
+510011;Le Tom Tip;117   R. Victor Hugo;92300;Levallois-Perret;92044;596896,892858;2433353,249285;tabac loto
+510012;Les Rosiers;56   R. des Rosiers;93400;Saint-Ouen;93070;600019,767341;2434145,457333;tabac loto
+510013;Café De La Tour;4   Av.Laurent Cély;92600;Asnières-sur-Seine;92004;597872,666312;2435442,982877;café tabac
+510014;Le Fontenoy;16   R. Louise Michel;92300;Levallois-Perret;92044;596304,903000;2432196,249000;café tabac
+510015;Le Maryland;7   Bd Jean Jaurès;92110;Clichy;92024;597965,074480;2433220,541297;café tabac
+510016;Tabac Du Marché;64   rue de Neuilly;92110;Clichy;92024;597506,696588;2433759,647441;café tabac
+510017;Tabac la Chope;27   Av. de la Marne;92600;Asnières-sur-Seine;92004;595950,620000;2434211,330000;café tabac
+510018;Le Petit Centre;52   R. Émile Zola;92600;Asnières-sur-Seine;92004;596174,377691;2436231,555506;café tabac
+510019;Cyber Phone;2   R. Mortinat;92600;Asnières-sur-Seine;92004;595978,350488;2435625,284396;point phone
+510020;Tabac Loto Presse;15   Pl. le Vau;92600;Asnières-sur-Seine;92004;596080,361592;2436445,522955;tabac librairie
+510021;Le Bon Accueil;37   R. Madame de Sanzillon;92110;Clichy;92024;598601,600000;2433921,600000;café
+510023; Magpresse;48   R. de Paris;93800;Épinay-sur-Seine;93031;598088,708154;2439550,801656;librairie
+510025; Le Cygne d'Enghien;132   Av. Joffre;93800;Épinay-sur-Seine;93031;596972,291115;2440395,960865;tabac loto
+510027; Tabac des Preles;65   Av.de la Marne ;93800;Épinay-sur-Seine;93031;599276,536246;2439668,796510;tabac presse
+510028; Le Week-End;7   Av. Gallieni;93800;Épinay-sur-Seine;93031;597339,050137;2440809,604208;café tabac
+510029;Le Flachat;35   R. de Chanzy;92600;Asnières-sur-Seine;92004;595387,415612;2434522,692437;café tabac
+510030; Le Maryland;62   R. du Dr Bauer;93400;Saint-Ouen;93070;600229,483552;2434487,171243;café tabac
+510031; Le Chiquito;128   Bd Jean Jaurès;92110;Clichy;92024;597406,569033;2434225,359859;café tabac
+510032;Le Rallye;47   R. Danton;92300;Levallois-Perret;92044;596170,328000;2432372,409000;café tabac
+510033;Tabac du Parc;26   R. Pierre Brossolette;92300;Levallois-Perret;92044;596785,313000;2433029,611000;tabac presse
+510034;Le Cyrano;110   R. des Bourguignons;92600;Asnières-sur-Seine;92004;595581,394746;2435287,237170;café tabac
+510035; Mag Presse;21   R. de St-Denis;93400;Saint-Ouen;93070;599650,063886;2435460,467109;presse
+510036;  ;5   R. d'Ormesson;93800;Épinay-sur-Seine;93031;597872,093928;2440293,236640;tabac presse
+510037;Tabac Arvern;29   Bd du général Leclerc;92110;Clichy;92024;598485,434339;2433617,448869;tabac loto
+510038;L'Ariel;62   R. Baudin;92300;Levallois-Perret;92044;596229,654000;2433314,851000;café tabac
+510039;Le Balto;37   Bd Victor Hugo;92110;Clichy;92024;598152,206975;2433297,461913;café tabac
+510040;L'Obélisque;15   Imp. du Noyer Bossu;93800;Épinay-sur-Seine;93031;597223,459240;2439788,076461;tabac librairie
+510041;Le Celtique;221   Av. Charles de Gaulle;92200;Neuilly-sur-Seine;92051;594220,946000;2431900,561000;café tabac
+510042;Le Nouveau Paris;204   Bd Bineau;92200;Neuilly-sur-Seine;92051;594891,268526;2432904,237289;café tabac
+510043;Le Jubillé 3;46   R. Gallieni;92500;Rueil-Malmaison;92063;590246,889555;2430007,887013;café tabac
+510044;Le Livre Moderne;2   Pl. de Stalingrad;92150;Suresnes;92073;590162,081239;2429468,778142;tabac presse
+510045;  ;153   Route de L'Empereur;92500;Rueil-Malmaison;92063;588579,279349;2429513,755649;tabac presse
+510047;Le Maryland;23   R. de Villiers;92200;Neuilly-sur-Seine;92051;596063,796150;2432096,192997;café tabac
+510048;L'Orèe du Parc;93   R. de la République;92150;Suresnes;92073;591747,000000;2429734,840469;tabac loto
+510049;Tabac de Bagatelle;3   R. Ernest Deloison;92200;Neuilly-sur-Seine;92051;593682,975751;2430946,188891;tabac loto
+510050;Tabac Du Golf;79   R.du 19 Janvier;92380;Garches;92033;589348,561894;2428135,070627;café tabac
+510051;Le Clémenceau;276   Av. Georges Clemenceau;92000;Nanterre;92050;591435,698000;2431934,633000;tabac librairie
+510052;La Cave A Cigares;27   R.de la Paix;92000;Nanterre;92050;591744,543123;2432169,154783;tabac loto
+510053;Le Carrefour;1   R. de la Poterie;92150;Suresnes;92073;590923,711412;2429284,386535;tabac loto
+510056;Tabac Beauregard;67   Av.du 18 Juin 1940;92500;Rueil-Malmaison;92063;589521,205391;2429967,769230;tabac presse
+510057;Les Impressionniste;21   Bd Fernand Hostachy;78290;Croissy-sur-Seine;78190;585901,600000;2431098,550000;tabac presse
+510058;A Ponte;23   Bd Henri Sellier;92150;Suresnes;92073;591834,952000;2429958,247000;café
+510059;Tabac De La Source;1   R.de la Source;92000;Nanterre;92050;590375,148353;2432024,907426;tabac presse
+510060;  ;4   All.. Georges Courteline;92000;Nanterre;92050;590652,003500;2433416,903000;tabac presse
+510061;Mag Presse;116   bd de Lattre de Tassigny;92150;Suresnes;92073;591205,695925;2429872,257081;tabac presse
+510062;  ;43   R.des Aubépines;92000;Nanterre;92050;591584,900000;2434700,682007;tabac loto
+510063;Mag Presse;26   R. Jacques Daguerre;92500;Rueil-Malmaison;92063;587719,498789;2432282,998096;tabac presse
+510065;Le Valmy;4   cours Valmy;92800;Puteaux;92062;592417,858400;2432685,004000;tabac loto
+510066;Civettes des 2 Gares;33   bd des Provinces Françaises;92000;Nanterre;92050;591100,043722;2433649,958348;civette
+510067;Le Diplomate;117   R. Jean Jaurès;92800;Puteaux;92062;592781,107645;2431424,417480;café tabac
+510068;Presse'tige;191   Av. Napoléon Bonaparte;92500;Rueil-Malmaison;92063;587679,860438;2430775,951172;tabac presse
+510070;La Civette Du Parc;11   Esplanade. Charles de Gaulle;92000;Nanterre;92050;591669,990000;2433026,368500;tabac presse
+510071;Le Richelieu;53   R. Haute;92500;Rueil-Malmaison;92063;588640,999622;2430617,934864;café tabac
+510072;La Civette De Marly;4   C. Cial des Grandes Terres;78160;Marly-le-Roi;78372;582498,346000;2431068,328000;tabac loto
+510073;Tabac De La Gare;1   R.Fernand Pelloutier;92800;Puteaux;92062;592462,034640;2431731,412820;café tabac
+510074;Le Balto;1   R. de Stalingrad;92000;Nanterre;92050;589987,451709;2432589,937725;tabac loto
+510075;Tobacco;4   All. de L'Hôtel de Ville;92500;Rueil-Malmaison;92063;588636,932314;2431105,171909;tabac loto
+510077;L‘européen;87   R. Maurice Thorez;92000;Nanterre;92050;589708,429076;2432995,843352;tabac loto
+510078;Le Montalegre;118   Av. du président Wilson;92800;Puteaux;92062;591944,746980;2431930,556575;tabac loto
+510079;Le Tabalire;103   Av. Paul Doumer;92500;Rueil-Malmaison;92063;588540,762699;2431281,675627;tabac loto
+510080;Le Napoléon 1er;115   Av.Albert 1er;92500;Rueil-Malmaison;92063;587810,077078;2432068,099386;café tabac
+510081;Le Marigny;92   R. Danton;92500;Rueil-Malmaison;92063;589745,784000;2431063,654000;café tabac
+510082;Hôtel des Pavillons;121   Bd du Général Delambre;95100;Argenteuil;95018;591794,750000;2437412,250000;tabac presse
+510084;Librairie Des Indes;C.Com   Av. Robert Schuman ;78500;Sartrouville;78586;588875,056758;2438430,490897;tabac presse
+510086;Le Celtique;76   Av. Henri Barbusse;92700;Colombes;92025;593850,624000;2435540,307000;café tabac
+510087;Tabac des Blanches;33   Bd Henri Barbusse;78800;Houilles;78311;589427,590000;2436516,708000;tabac presse
+510088;Presse Le Protocole;36   Bis Square des Corolles;92400;Courbevoie;92026;593338,766492;2432472,618769;tabac presse
+510089;Le Boyard;291   Av. d'Argenteuil;92270;Bois-Colombes;92009;595573,498074;2436088,977408;tabac loto
+510090;La Tabatière;70   R. de Bezons;92400;Courbevoie;92026;593478,554000;2433256,363000;tabac presse
+510091;;41   R. de Sartrouville;95870;Bezons;95063;590252,844775;2437368,296646;tabac presse
+510092;Mag Presse;C.Com    Joliot Curie  Route d'Enghien;95100;Argenteuil;95018;595865,011015;2439788,550688;tabac presse
+510093;Tabac Du Château;15   R. du château;95100;Argenteuil;95018;592344,927091;2437298,773588;tabac presse
+510094; Géorgie;26   Bd Héloise;95100;Argenteuil;95018;593917,527228;2438244,457834;tabac loto
+510095;Croix de Lorraine;2   R. Danielle Casanova;95100;Argenteuil;95018;592031,045299;2436912,933852;café tabac
+510096;Le Chiquito;16   Bd de Finlande;92700;Colombes;92025;594325,454452;2436986,670794;tabac loto
+510097;L'Européen;165   Bd de Verdun;92400;Courbevoie;92026;594096,928924;2434101,799791;café tabac
+510098;Le Brazza;102   110 Av. Marceau;92400;Courbevoie;92026;593157,311389;2433764,600617;tabac loto
+510099;L'Echo des Damiers;10   Gal. des Damiers,La Défense 1;92400;Courbevoie;92026;593992,247000;2432385,496000;tabac presse
+510100;Tabac du Marché;85   R. des Frères Bonneff;95870;Bezons;95063;590692,451000;2436960,144000;tabac presse
+510101;Le Chiquito;247   R. d'Épinay;95100;Argenteuil;95018;596013,172653;2439563,804586;tabac presse
+510102;Blé Garni;127   Av. Gabriel Péri;95870;Bezons;95063;590660,296000;2437344,662000;boulangerie
+510104;Tabac du Grand Cerf;2   R. Karl Marx;95870;Bezons;95063;590552,840936;2436138,631619;tabac presse
+510105;La Baraka;73   Av. de la République;92400;Courbevoie;92026;593755,357000;2433698,698000;café tabac
+510108;Le Flash;35   R. Jean-Pierre Timbaud;92400;Courbevoie;92026;593912,546911;2433301,275855;tabac loto
+510109;Les Reflets;32   Patio des Reflets;92400;Courbevoie;92026;592596,266114;2433381,930372;tabac presse
+510110;Le Gala;81   R. Gabriel Péri;92700;Colombes;92025;593438,324841;2435967,245936;tabac presse
+510111;Tabac Du Pont;5   Av..Jean-Jacques Rousseau;78800;Houilles;78311;589050,825151;2435621,431892;tabac presse
+510112;Le Président;233   Av. du Pdt Salvador. Allende;92700;Colombes;92025;592104,146714;2435793,512382;café tabac
+510113;La Civette;88   R. Jean Jaurès;95870;Bezons;95063;591551,172945;2436376,692845;civette
+510114;Maison De La Presse;57   Bd Carnot;78420;Carrières-sur-Seine;78124;588326,377634;2434555,009120;tabac presse
+510116;Presse Sainte Marie;9   R. Sainte-Marie;92400;Courbevoie;92026;594245,216571;2432819,748429;tabac presse
+510117;Le Bistrot ;34   Av. du Mar. Foch;95100;Argenteuil;95018;594011,067135;2438504,822574;tabac loto
+510118;Tabacos Mario;100   R.de la Liberté;92150;Suresnes;92073;591368,720399;2431272,146958;tabac librairie
+510119;Forum Presse Loisirs;11   R. Berthie Albrecht;95210;Saint-Gratien;95555;596216,181837;2441093,854051;librairie
+510120; Le Narval;2   R. du Gué;92500;Rueil-Malmaison;92063;588868,700000;2431234,500000;café tabac
+510121; Le Rond Point;39   Av. Édouard Vaillant;92150;Suresnes;92073;590866,018607;2429450,749363;café tabac
+510122; La Tabatière;156   Av. Jean Jaurès;95100;Argenteuil;95018;591789,142939;2438026,320363;tabac loto
+510123;La Royale;91   R. Perronet;92200;Neuilly-sur-Seine;92051;595136,514000;2432090,061000;tabac loto
+510124;Le Knits;51   Quartier Boieldieu;92800;Puteaux;92062;592947,354976;2432338,728313;café tabac
+510125;Le Madrilène;197   Av. Charles de Gaulle;92200;Neuilly-sur-Seine;92051;594433,612415;2431796,340428;café tabac
+510126;  ;142   Bd National;92000;Nanterre;92050;588727,950000;2432316,400000;tabac presse
+510127;Le Calumet;31-33   R. Jean Jaurès;92800;Puteaux;92062;593286,207000;2431746,237000;tabac presse
+510128;Tabac des 4 Temps;C.C   2 Parvis de la Défense;92800;Puteaux;92062;592975,214013;2432574,950617;tabac loto
+510129;Le Calumet;37   Av. Jean Jaurès;92150;Suresnes;92073;590667,409347;2429455,417319;tabac presse
+510130;Le Brazza;2   R. Jean Jaurès;78560;Le Port-Marly;78502;583439,909870;2431353,878041;café tabac
+510131;Tabac du Chateau;186   Bd  Saint-Denis;92400;Courbevoie;92026;595259,184000;2433681,950000;tabac
+510132;Tabac Des Chênes;45   R. des Chênes;92150;Suresnes;92073;591628,217000;2431323,908000;café tabac
+510133;Le Jean Bart;11   R. d'Estienne d'Orves;92270;Bois-Colombes;92009;595221,719243;2435252,429724;café tabac
+510134;;57   Av. du Pdt Georges Pompidou;92500;Rueil-Malmaison;92063;589517,763277;2430390,389606;librairie
+510135;La Civette du Val;100   Av.Georges Clemenceau;78500;Sartrouville;78586;589742,100334;2438238,922555;café tabac
+510137;Civette de Puteaux;65   Quai de Dion-Bouton;92800;Puteaux;92062;593787,244000;2431999,346000;tabac presse
+510138;Tabac le la Mairie;20   R. Gambetta;78800;Houilles;78311;589060,561605;2436066,748108;tabac loto
+510141;Tabac De Pigalle;34   R.la Bruyère;75009;Paris ;75109;599796,552000;2431244,832000;café tabac
+510142;Le Ballu;55   R. Blanche;75009;Paris;75109;599640,565000;2431465,762000;café tabac
+510144;Hollywood;19   R. de Clichy;75009;Paris ;75109;599532,347993;2431086,788735;café tabac
+510145;Le Celtic;104   Av. de Saint-Ouen;75018;Paris ;75118;599362,327857;2432878,021428;café tabac
+510146;Tabac des Folies;27   R. Richer;75009;Paris ;75109;600632,649988;2430634,543199;café tabac
+510147;Les Volcans;105   R. du Fbg Poissonnière;75009;Paris ;75109;600910,715782;2430984,584309;café tabac
+510148;Librairie Du Lycée;9   Av. Victor Hugo;92170;Vanves;92075;596474,807920;2425000,070508;librairie
+510149;Le Victor Hugo;175   Av. Victor Hugo;92140;Clamart;92023;595249,626000;2423443,905000;tabac
+510150;Le Relais de Poste;2   R. Paul Vaillant-Couturier;92140;Clamart;92023;594886,821336;2422560,325983;tabac
+510151;Le Celtique;5   R. de Tour de L'Étang;92350;Le Plessis-Robinson;92060;595125,098893;2420610,781482;café tabac
+510152;Mag Presse;15   Av. Charles de Gaulle;92350;Le Plessis-Robinson;92060;594287,582036;2419917,575887;tabac presse
+510153;  ;23   R. de la République;92170;Vanves;92075;596282,122386;2424684,118363;librairie
+510154;Bar de la Cavée;183   Av. de Gén. de Gaulle;92140;Clamart;92023;594262,944000;2421097,332000;café tabac
+510155;Librairie 52;52   rue Jean Bleuzen;92170;Vanves;92075;596879,800000;2424856,550000;librairie
+510156;Presse Papier;54   rue d'Erevan;92130;Issy-les-Moulineaux;92040;594438,510493;2424377,663996;tabac presse
+510157;Le Narval;72   R. Paul Vaillant-Couturier;92140;Clamart;92023;594334,378529;2422975,277177;café tabac
+510158;Le Tabac Du Centre;68   R. du Gouverneur  Gén. Éboué;92130;Issy-les-Moulineaux;92040;594960,650000;2425215,400000;café tabac
+510159;Mag Presse;.   CC. 3 Moulins  All. Ste Lucie;92130;Issy-les-Moulineaux;92040;593704,791034;2424686,233804;presse
+510161;L'Evasion;27   Av. Léon Blum;92350;Le Plessis-Robinson;92060;593872,085249;2419494,999139;tabac
+510162; Tabac Presse;95   R. de la Bourcillère;92140;Clamart;92023;592118,079307;2420204,242560;tabac presse
+510163;A La Une Presse 52;52   R. Antoine Fratacci;92170;Vanves;92075;596599,992628;2424680,693191;librairie
+510164;Espace Tabac;19   rue Jean-Pierre Timbaud;92130;Issy-les-Moulineaux;92040;593621,628750;2424574,686750;tabac
+510165;Tabac du Marché;10   avenue de la Libération;92350;Le Plessis-Robinson;92060;594058,891509;2419848,612917;tabac
+510166;Tabac de la Paix;766   Av.Roger Salengro;92370;Chaville;92022;589453,656090;2424021,651999;café tabac
+510167;Le Marigny;97   route de la Reine;92100;Boulogne-Billancourt;92012;592729,376000;2426844,107000;tabac
+510168;Tabac Presse Louvois;74   Pl. Louvois;78140;Vélizy-Villacoublay;78640;589819,446000;2420312,569000;tabac presse
+510169;Pro-Itech;8   R. Saint-Exupéry;92360;Meudon-La-Forêt;92900;591903,105689;2421252,880536;tabac presse
+510170;Les Tilleuls;13   Pl. de Stalingrad;92190;Meudon;92048;592512,160820;2424027,396097;tabac librairie
+510172;Presse de la Mairie;2   R. Albert Thomas;78140;Vélizy-Villacoublay;78640;589298,497524;2420553,937160;tabac librairie
+510173;Le Mozart;"108   Av; Mozart";75016;Paris ;75116;594908,372000;2428037,116000;tabac
+510174;Tabac de la Colline;37   R. d'Orléans;92210;Saint-Cloud;92064;591395,301785;2427102,407585;café tabac
+510176;Le Bendern;8   Pl. du Comte de Bendern;78170;La Celle-Saint-Cloud;78126;584396,786397;2426955,754626;tabac presse
+510177;Le Mozart;35   Av. de Savoie;78140;Vélizy-Villacoublay;78640;587776,209001;2420621,927805;tabac presse
+510178;Le Pavé des Gardes;38   Route du Pavé des Gardes;92310;Sèvres;92072;590765,157019;2423683,028509;tabac presse
+510179;Le Balzac;29   avenue de Friedland;75008;Paris 8e;75108;597409,467704;2430678,412568;civette
+510180;Librairie du Lycée;304   R. Lecourbe;75015;Paris ;75115;596319,627232;2426604,858424;librairie
+510181;L‘alliance;52/56   R. de la Croix-Nivert;75015;Paris ;75115;597167,142856;2427453,101428;tabac
+510182;Le Comptoir Du Parc;20   R. Cauchy;75015;Paris ;75115;595583,796327;2427169,341004;tabac presse
+510183;Le Khedive;157   rue de la Convention;75015;Paris 15e;75115;596791,360500;2426722,924250;tabac loto
+510184;Toute La Presse;86   Bd Lefebvre;75015;Paris ;75115;597298,867822;2425608,884738;librairie
+510185;Les Aviateurs;37   Bd Victor;75015;Paris ;75115;596239,596877;2426181,206684;tabac
+510186;Tabac De La Place;8   Pl. Falguière;75015;Paris ;75115;598589,498000;2427280,283000;tabac loto
+510187;La Boite à Cigares;23   R. de Rome;75008;Paris ;75108;599051,308998;2430876,453808;civette
+510188;L‘ariel;1   R. des Morillons;75015;Paris ;75115;597002,007127;2426233,767208;tabac loto
+510189;Tabac de la Tour;33   Av. du Maine;75015;Paris ;75115;598872,599393;2427097,913027;civette
+510190;L'Ariel;197   R. Lecourbe;75015;Paris ;75115;597003,012000;2426898,821000;tabac loto
+510191;La Civette wagram;8   Av. de Wagram;75008;Paris ;75108;597044,560000;2430794,074000;tabac loto
+510192;Seventeen;17Bis   R. Marcel Allegot;92190;Meudon;92048;591984,146500;2424774,399500;café tabac
+510193;Le  Drugstore;112   R. Lauriston;75016;Paris ;75116;596294,833775;2429739,956922;tabac loto
+510194;Au Jean Bart;44   R. du Dr  Roux;75015;Paris ;75115;598025,830594;2426799,396043;café tabac
+510195;Le Rallye;29   R. Cambronne;75015;Paris ;75115;597464,030000;2427484,471000;café tabac
+510196;;59   Bd Lefebvre;75015;Paris ;75115;596761,894284;2425845,300771;café tabac
+510197;L'escale;105   Bd de la République;92420;Vaucresson;92076;586517,963996;2426565,973824;café tabac
+510198;;112 b   R. Championnet;75018;Paris ;75118;600224,613831;2433052,426741;tabac librairie
+510199;Le Fontenoy;36   R. Henri Barbusse;92000;Nanterre;92050;589610,446000;2432472,922000;café tabac
+510200;Tabac les Jardins;155   Av. Maurice Utrillo;95100;Argenteuil;95018;592347,432720;2438879,842524;café tabac
+510201;Tabac de l'Europe;11   R. de Lisbonne;75008;Paris ;75108;598465,742000;2431048,626000;café tabac
+510202;Le Rocher St-Lazare;5 Bis   R. du Rocher;75008;Paris ;75108;599003,903236;2430829,985168;tabac loto
+510203;Le Brelan;2   Bd Léon Feix;95100;Argenteuil;95018;593904,966738;2438970,020336;café tabac
+510204;Le Chiquito;31   R.Charles Schmidt;93400;Saint-Ouen;93070;599787,861871;2433935,058555;café tabac
+510205;Le Porte Plume;58   Av. Victor Cresson;92130;Issy-les-Moulineaux;92040;594835,927543;2424875,261329;tabac presse
+510206;L'Equinoxe;10 R.   R Brulay - C Cial C. Debussy;78500;Sartrouville;78586;587323,061200;2437507,265100;café tabac
+510207;La Mission;214   R. Gabriel Péri;92700;Colombes;92025;592891,368200;2435583,398800;café tabac
+510208;La Tabatière;58   Av. de Fouilleuse;92500;Rueil-Malmaison;92063;589575,885470;2429355,174765;tabac loto
+520001;Le Danton;59   rue André Joineau;93310;Le Pré-Saint-Gervais;93061;604919,950000;2431783,050000;café tabac
+520002;Le Royal;140   rue de la Jarry;94300;Vincennes;94080;608396,749433;2427952,300424;café tabac
+520003;Tabac De La Mairie;3   rue de Paris;93230;Romainville;93063;607269,082000;2431875,922453;café tabac
+520004;  Librairie NGUYEN;.   avenue Lénine C Cial Y.gagarin;93230;Romainville;93063;606976,550000;2431837,100000;tabac presse
+520005;Tabac Du Pré-Gentil;2   Allée de Colmar;93110;Rosny-sous-Bois;93064;611901,674000;2429959,864000;tabac presse
+520006;  ;40   rue Lucien Sampaix;93170;Bagnolet;93006;606745,672738;2430227,113636;presse
+520007;Au quatre feuilles;1   rue des Polyanthas;93110;Rosny-sous-Bois;93064;611488,250000;2429273,350000;tabac presse
+520008;Le Cyrano;22   avenue du général de Gaulle;94160;Saint-Mandé;94067;605952,540524;2427376,940681;café tabac
+520009;Tabac De L'Eden;82   boulevard Belleville;75020;Paris 20e;75120;603160,503000;2430174,677600;civette
+520010;Le Brazza;10   avenue Joffre;94160;Saint-Mandé;94067;605956,927000;2427699,119000;café tabac
+520011;L‘ariel;114   avenue de Verdun;93230;Romainville;93063;606773,954000;2431476,253000;café tabac
+520012;Librairie Du Lycée;76   rue de Rosny;93100;Montreuil;93048;608259,130343;2429439,531033;tabac presse
+520013;Madi' sons;69   Rue de la Roquette;75011;Paris 11e;75111;602958,597000;2428674,384000;café tabac
+520014;  ;52   avenue du général Leclerc;94420;Le Plessis-Trévise;94059;616794,779000;2423594,479500;tabac presse
+520015;Tabac de l‘avenue;48   boulevard de la Liberté;94170;Le Perreux-sur-Marne;94058;611859,738333;2426339,506885;tabac
+520016;Totem;41   boulevard Gallieni;94360;Bry-sur-Marne;94015;613749,237899;2427265,589416;tabac presse
+520017;Librairie De La Gare;184   Grand rue du Gal de Gaulle;94130;Nogent-sur-Marne;94052;611478,309965;2426672,808704;presse
+520018;  ;65 bi   avenue Jean Jaurès;77420;Champs-sur-Marne;77083;618634,217000;2428661,718000;tabac presse
+520019;Tabac presse loisirs;24   place Pablo Picasso;77420;Champs-sur-Marne;77083;619726,784750;2427051,364828;tabac presse
+520020;L'Écu De France;95   avenue des Sciences;77500;Chelles;77108;618772,132000;2433889,090000;café tabac
+520021;  ;101   place Gaston Meunier;77186;Noisiel;77337;621369,982818;2428694,963523;tabac presse
+520022;Le Tabac De L'Églis;60   avenue Victor Hugo;93360;Neuilly-Plaisance;93049;612615,200000;2428739,250000;tabac
+520024;Chez Eva;25   rue Benoni Eustache;93250;Villemomble;93077;613645,873741;2430805,880775;tabac presse
+520025;Le Longchamp;1.   Avenue Léon Blum;93330;Neuilly-sur-Marne;93050;614398,800224;2429923,734562;café tabac
+520026;La Divette De Bry;1   place Daguerre;94360;Bry-sur-Marne;94015;613438,166493;2426252,493091;café tabac
+520028;Tabac De L'Église;2   avenue Paul Doumer;93460;Gournay-sur-Marne;93033;617570,066285;2429488,989452;tabac presse
+520029;Le Royal;3   avenue Jean Jaurès;77360;Vaires-sur-Marne;77479;622191,829686;2430752,672915;café tabac
+520030;Au Tabac Bleu;54   avenue Paul Vaillant-Couturier;93330;Neuilly-sur-Marne;93050;615815,365315;2430700,302272;tabac loto
+520031;Le Bonheur;44   rue du général Leclerc;93220;Gagny;93032;614667,828136;2432161,655159;café tabac
+520032;Tabac De La Gare;6   place Robert Belvaux;94170;Le Perreux-sur-Marne;94058;611628,783177;2426639,423930;café tabac
+520033;Le Madrigal;64   avenue Daniel Perdrige;93360;Neuilly-Plaisance;93049;613133,924000;2430350,358000;café tabac
+520035;Tabac Des Marnaudes;89   rue de la Fosse aux Bergers;93250;Villemomble;93077;611612,645458;2432252,725930;tabac presse
+520036;Lib. du Val de Marne;70   rue du 11 Novembre;93330;Neuilly-sur-Marne;93050;613941,250000;2429445,750000;tabac presse
+520037;La Civette De Brou;72   avenue Jean Jaurès;77177;Brou-sur-Chantereine;77055;621460,431236;2431417,958958;tabac librairie
+520038;La Civette De Lagny;21   rue du Chemin de Fer;77400;Lagny-sur-Marne;77243;627029,118657;2431278,222761;tabac loto
+520039;Cité B A;219   avenue Pierre Brossolette;94170;Le Perreux-sur-Marne;94058;613206,689283;2426216,192463;café tabac
+520040;Tabac Arche Guédon;5   place de la Mogotte;77200;Torcy;77468;622079,611865;2428161,904127;tabac presse
+520041;Tabac De L'Alma;103   avenue Pierre Brossolette;94170;Le Perreux-sur-Marne;94058;612308,240000;2426295,619000;café tabac
+520042;Le Roissy;.   C. Cial la Ferme d'Ayau;77680;Roissy-en-Brie;77390;622745,150224;2421759,571980;café tabac
+520043;Espace Gambetta;20   rue Gambetta;77500;Chelles;77108;618783,144955;2431201,955042;tabac
+520044;Tabac De La Gare;7   place de la Gare;93250;Villemomble;93077;612802,135249;2432340,630554;café tabac
+520045;Le Saint Dominique;27   place de L'Europe;77700;Bailly-Romainvilliers;77018;635351,098303;2428001,541985;tabac librairie
+520047;Virgule;3   rue des Renouillères;93360;Neuilly-Plaisance;93049;612738,000000;2429675,600000;tabac presse
+520048;Tabac De L'Esplanad;5   promenade du Belvédère;77200;Torcy;77468;623259,938527;2427013,715012;tabac presse
+520049;Le Larzac;2   avenue de la Résistance;77500;Chelles;77108;618462,808318;2431216,576966;café tabac
+520050;Le Petit Foch;86   avenue du maréchal Foch;93360;Neuilly-Plaisance;93049;612833,550000;2429143,650000;café tabac
+520051;Le Val 94;165   boulevard Alsace-Lorraine;94170;Le Perreux-sur-Marne;94058;612610,492584;2428176,299337;café tabac
+520052;Tabac-Presse Kosan;15   boulevard du maréchal Foch;93160;Noisy-le-Grand;93051;614167,543332;2427509,832666;tabac presse
+520053;Le Maryland;20   boulevard Alsace-Lorraine;94170;Le Perreux-sur-Marne;94058;611709,137411;2427880,309107;café tabac
+520054;Carré D'As;CCial   rue Monthety;77340;Pontault-Combault;77373;620121,801325;2419936,408121;tabac
+520056;Le Papyrus;CCial   Route de Montfermeil;77500;Chelles;77108;617917,135867;2432784,508017;tabac presse
+520057;Le Brussel'S;13   boulevard Gallieni;93360;Neuilly-Plaisance;93049;612975,220272;2428290,830257;café tabac
+520058;Civette De La Mairie;.   place du Chanoine Heroux;93330;Neuilly-sur-Marne;93050;614339,050000;2428682,250000;tabac presse
+520059;L‘européen;CCial   C. Cial du Champy;93160;Noisy-le-Grand;93051;617716,615000;2427259,395000;café tabac
+520060;La Platanaie;11   place de Verdun;94420;Le Plessis-Trévise;94059;618235,737370;2423006,273041;tabac presse
+520061;La Plume Cévenole;139   avenue du général de Gaulle;94170;Le Perreux-sur-Marne;94058;612284,979000;2427191,535000;presse
+520062;Le Break;161   avenue du 8 Mai 1945;94170;Le Perreux-sur-Marne;94058;612648,184918;2427871,911927;café tabac
+520063;Tabac De L'Époque;2   rue Joannes;93220;Gagny;93032;613983,947000;2431630,546000;café tabac
+520064;Civette Des Arcades;CCial   rue des Arcades;93160;Noisy-le-Grand;93051;615365,450000;2426737,150000;tabac loto
+520065;Librairie Du Fort;126   boulevard de Strasbourg;94130;Nogent-sur-Marne;94052;610874,816645;2427138,951202;presse
+520066;Kh Presse;9   boulevard du maréchal Foch;93330;Neuilly-sur-Marne;93050;613486,532790;2428449,539837;presse
+520068;Le Balto;190   boulevard de Stalingrad;94500;Champigny-sur-Marne;94017;611746,292324;2425050,958976;café tabac
+520069;  ;2   boulevard Friedberg;94350;Villiers-sur-Marne;94079;614917,599427;2425749,138834;tabac presse
+520070;Tabac Du Bois L'Abb;2   place Rodin;94500;Champigny-sur-Marne;94017;615745,037471;2423192,478336;tabac
+520072;Tabac De La Gare;12   place de la Gare;94350;Villiers-sur-Marne;94079;615048,269692;2425013,101054;tabac presse
+520073;4 Tour;6   Av. du 11 Novembre 1918    ;94500;Champigny-sur-Marne;94017;612766,546366;2423939,676892;café tabac
+520074;Tabac De La Mairie;4   rue Louis Talamoni;94500;Champigny-sur-Marne;94017;612766,546366;2423939,676892;tabac presse
+520075;Le Rallye;77   rue du général de Gaulle;94350;Villiers-sur-Marne;94079;615149,632865;2425446,121231;tabac
+520076;  ;156   rue Alexandre Fourny;94500;Champigny-sur-Marne;94017;614278,306280;2424630,512711;librairie
+520077;Le Rocher Fleuri;52   avenue  Gallieni;94340;Joinville-le-Pont;94042;611265,272327;2424828,528473;café tabac
+520078;Librairie Des Studi;4   allée Raymond Nègre;94340;Joinville-le-Pont;94042;610201,045782;2424630,545114;librairie
+520079;Tabac Village;85   avenue de la République;94500;Champigny-sur-Marne;94017;612774,841517;2424983,181924;café tabac
+520080;Tabac Presse Loto ;90   rue Alexandre Fourny;94500;Champigny-sur-Marne;94017;613502,415000;2424506,154000;tabac presse
+520081;Le Joinville;3   avenue Jean Jaurès;94340;Joinville-le-Pont;94042;609383,081648;2424650,993842;café tabac
+520082;Tabac Sport;CCial   avenue Gendarme Castermant;77500;Chelles;77108;619162,665089;2431255,244065;tabac loto
+520083; Le Fontenoy;116   Av. des Sciences;93370;Montfermeil;93047;618209,214000;2434086,696000;tabac
+520085; Le Malakoff;36   Rue du Grand Cerf;77100;Meaux;77284;639817,805982;2440159,649042;café tabac
+520086;  ;38   Avenue Ardouin;94420;Le Plessis-Trévise;94059;617446,599437;2423421,489784;librairie
+520087; Au Bouquet;7   Avenue Charles Rouxel;77340;Pontault-Combault;77373;619740,204028;2422235,010795;tabac loto
+520088;;Ccom   Carrefour Mar.ZAC de la Foulée;77100;Nanteuil-lès-Meaux;77330;639829,360721;2438356,077303;tabac loto
+520089; TABAC-PRESSE-LOTO;14   place du Bois de Grâce;77420;Champs-sur-Marne;77083;618242,854000;2427607,759000;tabac presse
+520090;des richardets;81   avenue Médéric;93160;Noisy-le-Grand;93051;616970,300090;2425665,513736;librairie
+520091;Librairie de la gare;6   rue de la Marne;77400;Pomponne;77372;626983,006097;2431545,416866;librairie
+520092;La Plume D'Or;7   avenue Michel Goutier;93160;Noisy-le-Grand;93051;617157,396356;2427775,368171;tabac presse
+520093;Le Sévigné;162   Grande rue;93250;Villemomble;93077;613604,321116;2431523,200000;café tabac
+520094;Le Cornillon;15   Rue Cornillon;77100;Meaux;77284;639775,318656;2439759,936813;café tabac
+520095;TABAC LE VAL;10   Av du Val de Fontenay;94120;Fontenay-sous-Bois;94033;611130,624936;2428367,116877;tabac
+520096;Au Scribe;18   rue Albert Thomas;94500;Champigny-sur-Marne;94017;612795,213044;2423732,039058;tabac loto
+520097;Librairie BAPTISTA;0,0833333333333333   Rue Louise Adélaïde;94350;Villiers-sur-Marne;94079;615627,619789;2424979,768179;librairie
+520098;L'Etincelle;67   avenue du général Gallieni;93250;Villemomble;93077;613339,405154;2431908,822910;café tabac
+520099;L'étoile des roches;37   cours des Roches;77186;Noisiel;77337;620482,561000;2427515,027000;tabac presse
+520100;Librairie Du Lycée;178   avenue Pierre Brossolette;94170;Le Perreux-sur-Marne;94058;612699,095000;2426260,220000;librairie
+520101;Les vignes;39   rue Emile Zola;77124;Crégy-lès-Meaux;77143;639117,711581;2442186,469817;café tabac
+520102;La Divette Foch;22   avenue du maréchal Foch;93360;Neuilly-Plaisance;93049;612196,750000;2429422,431000;café tabac
+520103;T.presse Des Bords ;181   rue Diderot;94500;Champigny-sur-Marne;94017;612098,149857;2423832,411474;tabac presse
+520104;Tabac De La Poste;46   avenue du maréchal Foch;93360;Neuilly-Plaisance;93049;612461,044901;2429293,888243;café tabac
+520105;tabac de la mairie;34   rue de paris;77200;Torcy;77468;623252,300000;2428093,550000;tabac loto
+520106;TABAC DE LA GARE;3   Place Roger Nicolas;77330;Ozoir-la-Ferrière;77350;625970,956000;2419246,571000;tabac loto
+520107;Tabac De L'Europe;77   avenue de Rosny;93250;Villemomble;93077;612024,264958;2431747,617326;café tabac
+520108;  ;74   rue du Landy;93210;Saint-Denis;93066;601633,035364;2435243,127881;librairie
+520110; Le Narval;95   Avenue Jules Guesde;93240;Stains;93072;603833,044933;2440708,618338;café tabac
+520111; Le Celtique;60   rue Parmentier;93240;Stains;93072;602786,490000;2441240,817000;café tabac
+520112; Le Fuégo;80   Avenue Lénine;93380;Pierrefitte-sur-Seine;93059;601606,817183;2439968,340567;café tabac
+520114;Le Champs de Courses;29   rue Diderot;93200;Saint-Denis;93066;602984,328000;2437586,849000;tabac librairie
+520115;LE LUTECIA;106   avenue Paul Vaillant Couturier;93200;Saint-Denis;93066;602244,752457;2437363,105857;café tabac
+520116;LE PRESIDENT;92   Avenue du Président Wilson;93210;La Plaine-Saint-Denis;93900;601639,044187;2434246,021523;café tabac
+520117;;30   Rue du Moulin Neuf;93240;Stains;93072;604010,724093;2439432,553488;café tabac
+520118;Le Real;63   rue du Moutier;93300;Aubervilliers;93001;603090,463926;2435230,362884;café tabac
+520119;La Rame;21   rue Philippe de Girard;75010;Paris 10e;75110;601847,781420;2431620,189438;café tabac
+520120;Le Fontenoy;70   avenue Jean Jaurès;75019;Paris 19e;75119;602971,850000;2431807,800000;tabac loto
+520121;  ;4   allée de Gagny;93390;Clichy-sous-Bois;93014;615636,032896;2434328,731952;tabac presse
+520122;L‘imperial;38   rue d'Aulnay;93270;Sevran;93071;613414,123000;2437992,401000;café tabac
+520123;  ;90   avenue de Livry;93270;Sevran;93071;614937,698666;2436899,625334;librairie
+520124;Librairie Molière;CCial   Avenue Louise Michel ;93150;Le Blanc-Mesnil;93007;610160,672626;2436121,870289;librairie
+520125;  ;24   avenue Suzanne Buisson;93140;Bondy;93010;610596,135617;2435081,773122;tabac presse
+520126;Le Chavannes;162   allée de Montfermeil;93220;Gagny;93032;614669,678000;2433371,208000;café tabac
+520127;Le Magagnou;35   avenue Gallieni;93130;Noisy-le-Sec;93053;609394,655084;2433498,902920;café tabac
+520128;Le Brazza;76   rue Roger Salengro;93700;Drancy;93029;607400,491000;2435667,400000;café tabac
+520129;Le Voltigeur;70   avenue Marceau;93700;Drancy;93029;607124,096000;2436791,827000;café tabac
+520130;L'Angélus;213   avenue Paul Vaillant-Couturier;93150;Le Blanc-Mesnil;93007;609272,188247;2436215,553471;café tabac
+520131;  ;87   rue Louis Auguste Blanqui;93140;Bondy;93010;610999,121000;2433385,656000;tabac presse
+520132;L'Étoile D'Or;22   rue de L'étoile;93000;Bobigny;93008;606681,717854;2434861,336707;café tabac
+520134;Tabac des Tilleuls;22   rue Maurice Audin;93150;Le Blanc-Mesnil;93007;608424,456000;2438880,604000;tabac presse
+520135;Le Bel Air;25   avenue Édouard Vaillant;93000;Bobigny;93008;609699,458000;2434375,455000;café tabac
+520136;Le Galion;22bis   avenue Pasteur;93290;Tremblay-en-France;93073;617376,526003;2438221,663008;tabac loto
+520137;Café De La Gare;10   place de la Gare;93420;Villepinte;93078;616843,903169;2438513,946328;café
+520138;Plumes et Volutes de;77   avenue Henri Barbusse;93290;Tremblay-en-France;93073;617271,507000;2440161,045000;tabac presse
+520140;Tabac Du Vert Galan;11   avenue de la Gare;93420;Villepinte;93078;616751,823000;2438606,254000;tabac presse
+520143;Le Chiquito;135   avenue Henri Barbusse;93700;Drancy;93029;608410,075000;2435728,850200;café tabac
+520144;Civette Des 7 Iles;186   avenue Jean Jaurès;93370;Montfermeil;93047;615514,350000;2433408,400000;tabac presse
+520145; Le Disque Bleu;8   place Roger Levanneur;95160;Montmorency;95428;598696,184533;2443387,830970;café tabac
+520146;Presse 2000   ;41   rue Pierre Sémard;93150;Le Blanc-Mesnil;93007;610252,495000;2437397,301000;tabac presse
+520147;Rougemont Presse;2   rue Pierre Brossolette;93270;Sevran;93071;612961,589000;2437448,977000;tabac presse
+520148;Le Blues Bar;1   rue de la Fraternité;93140;Bondy;93010;610238,095818;2433458,869008;café tabac
+520149;Villa Picta;4    avenue du parc de la Noue;93420;Villepinte;93078;615220,797000;2440102,703000;tabac presse
+520151;Librairie Du Centre;9   rue du Pressoir;93470;Coubron;93015;617710,100000;2435229,049204;presse
+520152;Le Reinitas;61   avenue Paul Bert;93190;Livry-Gargan;93046;613588,715837;2435779,458744;café tabac
+520153;Tabac Les Sablons;21   place Elsa Triolet;93270;Sevran;93071;615571,048910;2438427,402181;tabac presse
+520154;Tabac De La Gare;11   rue Édouard Vaillant;93140;BONDY;93010;611376,886666;2433511,382665;café tabac
+520155;  ;80   Avenue Galliéni;93140;Bondy;93010;610547,129000;2434170,568000;presse
+520156;Tabac De La Tour;26   place de la Tour;93390;Clichy-sous-Bois;93014;615174,550000;2434297,500000;tabac presse
+520157;Le Fontenoy;17   place de la Libération;93190;Livry-Gargan;93046;615200,936000;2436056,651000;café tabac
+520158;Le Rocher;5   boulevard Marx Dormoy;93190;Livry-Gargan;93046;613984,890000;2434662,873000;café tabac
+520159;Tabac Presse librair;121   avenue César Collavieri;93190;Livry-Gargan;93046;614092,453334;2435919,398667;tabac presse
+520160; Tabac des Rosiers;11   rue de Gascogne;95200;Sarcelles;95585;602432,354000;2443572,778000;tabac librairie
+520161; Café de la Gare;5   Av. Pierre Sémard;95400;Arnouville-Les-Gonesse;95019;605804,885743;2444065,689700;café tabac
+520163; Le Celtique;83   rue Pierre Brossolette;95200;Sarcelles;95585;603002,162630;2443927,663567;café tabac
+520164;LE PONTOISE;1   rue de Pontoise;95200;Sarcelles;95585;602891,998893;2441541,244368;tabac presse
+520165; Les volutes;14   rue de Toulouse;95200;Sarcelles;95585;603285,049569;2441541,074580;tabac loto
+520167;LE FLASH;3   rue Ste-Marguerite;93500;Pantin;93055;604013,779195;2433638,344401;tabac presse
+520168;  ;25   Av. Anatole France;93500;Pantin;93055;606466,993111;2432845,134820;tabac presse
+520169; Tabac du Tram;21   Av. Jean Jaurès;93120;La Courneuve;93027;604754,894291;2436268,294426;tabac loto
+520170; Le Maracana;35   rue du Général Leclerc;95500;Gonesse;95277;608082,992656;2443243,912418;tabac loto
+520171; Tabac Le Jollois;39   Boulevard Pasteur;93120;La Courneuve;93027;603435,945579;2435950,924863;tabac
+520172;La Civette du Bourge;15   rue Étienne Dolet;93350;Le Bourget;93013;606699,100428;2437014,993805;tabac loto
+520173; Tabac la Charmeuse;2   Place de la Charmeuse;95190;Goussainville;95280;610038,881206;2448306,715063;tabac presse
+520174; Le Relais du Pont;25   Av. Édouard Vaillant;93500;Pantin;93055;604592,150000;2433266,700000;tabac loto
+520175; Tabac Le Cyrano;178   Av. du Général Leclerc;93500;Pantin;93055;605673,294379;2433737,595356;tabac
+520176; La Fauconnière;19   Place Marc Sangnier;95500;Gonesse;95277;606316,500000;2444790,850000;tabac presse
+520177; Tabac du Vieux Pays;17   rue de Verdun;95140;Garges-lès-Gonesse;95268;605452,453414;2441048,791751;tabac librairie
+520178;Tabac Hoche;30   rue du Pré St-Gervais;93500;Pantin;93055;604902,761714;2432378,144572;tabac loto
+520179; Paris Lille;36   Av. du Cimetière Parisien;93500;Pantin;93055;604550,818254;2434553,817501;café tabac
+520180; Presse Gde Vallée;1   Avenue Georges Pompidou;95500;Gonesse;95277;606908,958658;2443649,415731;tabac presse
+520181;Le Balto;229   Avenue Jean Jaurès ;93700;Drancy;93029;609047,302870;2435253,820420;café tabac
+520183;Puits La Marlière;1   Av. du 8 Mai 1945;95400;Villiers-le-Bel;95680;604695,940000;2445314,005000;café tabac
+520184;  ;118   Av. du Gal Michel Bizot;75012;Paris 12e;75112;604982,431302;2426818,296525;presse
+520185;Le Bercy ;6   rue Chambertin;75012;Paris 12e;75112;603215,932233;2426861,414426;tabac
+520186;Le Muratis;2   rue de Lyon;75012;Paris 12e;75112;602630,462000;2427507,471000;café tabac
+520187;Le Totem ;96   boulevard Diderot;75012;Paris 12e;75112;603538,953929;2427640,225228;tabac
+520188;La Belle Epoque;21   avenue Ledru-Rollin;75012;Paris 12e;75112;602411,142158;2427610,008757;café tabac
+520189;Le Résident;51   boulevard Soult;75012;Paris 12e;75112;605295,713194;2426738,399152;café tabac
+520190;Caffé In;152   avenue Daumesnil;75012;Paris 12e;75112;604091,350000;2426892,450000;café tabac
+520191;  ;157   rue de Charenton;75012;Paris 12e;75112;603446,257143;2427375,327493;tabac presse
+520193;Tabac des Collonnes;6   cours de Vincennes;75012;Paris 12e;75112;604629,267684;2427713,894654;café tabac
+520194;La Civette Dorée;3   Bd. Soult;75012;Paris 12e;75112;605174,827824;2426379,452444;civette
+520195;Le Rallye;82   rue du faubourg saint-Antoine;75012;Paris 12e;75112;602823,650000;2428137,100000;café tabac
+520196;Tabac Du Canon;2   place de la Nation;75012;Paris 12e;75112;604247,732180;2427785,561561;tabac loto
+520197;Le Gavroche;49   boulevard de Reuilly;75012;Paris 12e;75112;604272,748667;2426787,913778;café tabac
+520198;Tabac Bastille;21   rue Daval;75011;Paris 11e;75111;602545,177500;2428468,138000;tabac loto
+520199;Le Victoria;6   rue saint-Martin;75004;Paris 4e;75104;600936,040330;2428777,364757;librairie
+520200;Le Reinit;116   Cours de Vincennes;75012;Paris 12e;75112;605424,556991;2427607,706248;tabac loto
+520201;Les Arcades;68   AVENUE DAUMESNIL;75012;Paris 12e;75112;603216,050000;2427395,700000;café tabac
+520202;  ;.   le haut de Gally;93600;Aulnay-sous-Bois;93005;610570,632509;2439817,533693;tabac presse
+520203;TABAC PRESSE BOUTOUT;7   Place des Nations unies;93000;BOBIGNY;93008;609667,276132;2434883,941900;tabac presse
+520204;La Librairie du Vieu;25   Rue Jacques Duclos;93600;Aulnay sous Bois;93005;611740,418603;2438365,109472;librairie
+520205;Bar Monte Christo;16   Grande Rue;93250;VILLEMOMBLE;93077;612738,784131;2431765,942636;café tabac
+520206;;3   Rue du Général Galliéni;93110;Rosny sous Bois;93064;610772,851428;2430604,328572;librairie
+520207;LE TERMINUS;224   avenue du 8 mai 1945;93440;DUGNY;93030;607807,755000;2439529,073000;café tabac
+520208;Le D'Artagnan;27   rue Claude Debussy;95360;Montmagny;95427;600039,124271;2440538,794887;café tabac
+520209; Les Mortefontaines;63   Av. Mathieu Chazotte;95170;Deuil-la-Barre;95197;598860,042464;2441484,103015;café tabac
+520210; Le Vizir;10   Av. de la Division Leclerc;95170;Deuil-la-Barre;95197;598605,147289;2440980,128577;café tabac
+520211;Tabac du Parc;48   Avenue Ledru Rollin;94170;Le Perreux Sur Marne;94058;611863,614811;2426973,146337;café tabac
+520212;Le Royal Tabac;58   Avenue Ledru Rollin;75012;PARIS;75112;602643,601000;2427808,855000;café tabac
+520215;TABAC DE LA GARE;2   PLACE AURIBAULT;77340;Pontault-Combault;77373;620668,478151;2423088,373950;tabac loto
+520216;TABAC DIDO ;113   Rue de Charenton;75012;Paris 12;75112;603109,126854;2427568,849557;café tabac
+520217;Tabac du Fort;123   Rue du Monument;94500;Champigny Sur marne;94017;614422,312714;2423102,723640;café tabac
+520218;Le Voltaire;130   Bd Voltaire;75011;Paris;75111;603221,962674;2428813,817276;café tabac
+520219;LE PASTEUR;138   avenue Pasteur;93150;LE BLANC MESNIL;93007;609858,162276;2438014,295609;café tabac
+520220;Queen Café;9   Bd Saint Martin;75003;Paris;75103;601811,152310;2429979,316004;café tabac
+520221; Le Royal Sak;76   rue Jean Jaurès;93240;Stains;93072;603397,714000;2441080,879000;café tabac
+520222;La Barrique;7   Rue Beaurepaire;75012;Paris;75110;601971,858716;2430114,728733;tabac loto
+520223;L'ESCALE;9   Place du Marché;77170;Brie-Comte-Robert;77053;620138,570074;2410317,837103;tabac loto
+520224;Le Cyrano;39   rue Eugène Masse;93190;Livry-Gargan;93046;615291,540570;2436432,668847;café tabac
+520225;Vila Verde;90   Boulevard Théophile Sueur;93100;Montreuil;93048;609798,491000;2429857,699000;café
+520226;Le Marigny;298   Rue des Pyrénnées;75020;Paris;75120;604056,519278;2430410,929471;café tabac
+520227;Le Floréal;2   Place Roger Vaillant, ZI Chant;93600;Aulnay Sous Bois;93005;612628,496156;2436667,102266;café tabac
+520228; Espace Tabac;74   rue Jean Jaurès;77410;Claye-Souilly;77118;625699,477716;2438632,441715;civette
+520229;La Montjoie;171   avenue du président Wilson;93210;Saint-Denis;93066;601558,019500;2434732,299500;café tabac
+530001;Le Saint-Éxupery;.   place saint-Exupéry;94310;Orly;94054;605526,841321;2416370,406944;café tabac
+530002;  ;44   rue Mirabeau;94600;Choisy-le-Roi;94022;606141,124934;2418619,715599;café tabac
+530003;Librairie;3   place Henri Barbusse;91550;Paray-Vieille-Poste;91479;601924,788638;2412686,336702;librairie
+530004;Les Deux Cigognes;113   avenue de la Victoire;94310;Orly;94054;603831,247640;2416295,831865;tabac presse
+530006;Librairie Peuplerai;44   boulevard Pasteur;94260;Fresnes;94034;598561,068890;2417751,442093;tabac presse
+530007;Love Tabac;.   C. Cial Belle Épine;94320;Thiais;94073;602395,318080;2417556,972075;tabac
+530008;Le Point Tabac;43   avenue de la Paix;94260;Fresnes;94034;599498,803083;2417947,199372;tabac librairie
+530009;Le Point Tabac;199   place Vauban Silic;94563;Rungis;94065;601392,220317;2416548,023536;tabac librairie
+530010;Le Concorde;21   boulevard de Fontainebleau;91550;Paray-Vieille-Poste;91479;602562,360216;2412244,392082;café tabac
+530011;Le Triageois;16   avenue de Choisy;94190;Villeneuve-Saint-Georges;94078;607295,850000;2416630,750000;café tabac
+530013;Tabac De La Gare;7   place du 8 Mai 1945;94310;Orly;94054;604839,450000;2415932,500000;café tabac
+530014;Presse Du Plateau;27   rue Camille Desmoulins;91260;Juvisy-sur-Orge;91326;601629,006328;2410640,906912;librairie
+530015;Ftm Presse;64   rue Émile Zola;94260;Fresnes;94034;599262,060304;2418102,432588;presse
+530016;Toute La Presse;7   rue Jean Danaux;91260;Juvisy-sur-Orge;91326;603595,487602;2410079,477282;librairie
+530018;Tabac Presse;28   place du 19 mars 1962;91200;Athis-Mons;91027;604355,357507;2412726,040888;tabac librairie
+530019;Le Narval;46   rue du Commerce;94310;Orly;94054;604452,025072;2416025,698209;café tabac
+530020;Le Stalingrad;58   boulevard de Stalingrad;94600;Choisy-le-Roi;94022;604745,302000;2419196,599333;tabac presse
+530021;Bar Tabac De La Gar;2   place de la Gare;91700;Sainte-Genevieve-des-Bois;91549;598204,800507;2406109,601398;café tabac
+530022;Le Bardi;193   boulevard Aristide Briand;91600;Savigny-sur-Orge;91589;601581,347921;2409939,898614;café tabac
+530023;Le Fontenoy;1   rue Henri Ouzilleau;91600;Savigny-sur-Orge;91589;600178,156494;2408375,477301;café tabac
+530024;Mag Presse;2   place de Lattre de Tassigny;94550;Chevilly-Larue;94021;602275,600000;2419271,432545;tabac librairie
+530025;Le Ri Papeterie;18   avenue Gabriel Péri;91260;Juvisy-sur-Orge;91326;602259,592991;2410762,843368;librairie
+530026;Le Saint Laurent;2   avenue de la Fontaine Mouton;92160;Antony;92002;596687,450000;2415351,650000;café tabac
+530027;3 D;10   rue du Poitou;94550;Chevilly-Larue;94021;601796,967668;2419606,750776;presse
+530028;Le Rond Point;3   avenue de Lorraine;94550;Chevilly-Larue;94021;601267,878164;2418511,712230;café tabac
+530029;;9   place de L'Église;94260;Fresnes;94034;598972,699398;2417440,765147;tabac presse
+530030;Maison De La Presse;15bis   place de L'Union Européenne;91300;Massy;91377;594153,700000;2414297,150000;librairie
+530031;Le Central;72   avenue Jean Jaurès;91230;Montgeron;91421;608077,491555;2413115,850163;café tabac
+530032;;36   avenue de Lugo;94600;Choisy-le-Roi;94022;605322,543585;2419078,297333;presse
+530033;Le Val Pompadour;70   avenue Henri Barbusse;94460;Valenton;94074;607718,402000;2418632,846000;tabac presse
+530034;  ;1   rue de Mesly (c. Commercial );94000;Créteil;94028;609041,321000;2421565,508000;tabac librairie
+530036;Au Petit Caporal;1   rue Eugène Renault;94700;Maisons-Alfort;94046;606132,536129;2424099,557720;café tabac
+530037;Tabac Le Village;3   rue Paul-François Avet;94000;Créteil;94028;609346,103370;2421559,898875;tabac
+530038;Le Diplomate;16   rue Charles de Gaulle;94140;Alfortville;94002;605682,221000;2424018,500000;café tabac
+530039;Centre Ville;25   place Salvador Allende;94140;Alfortville;94002;605754,309000;2422969,655000;tabac
+530040;La Bonne Hôtesse;340   rue de Paris;94190;Villeneuve-Saint-Georges;94078;607998,153941;2417004,443459;café tabac
+530041;  ;108   rue Veron;94140;Alfortville;94002;605737,675000;2423298,212000;librairie
+530042;Le Saint-Pierre;31   rue de Dijon;94140;Alfortville;94002;606868,170712;2420899,474032;tabac presse
+530043;Le Mondial;157   rue Jean Jaurès;94700;Maisons-Alfort;94046;607238,488000;2421400,224000;café tabac
+530044;Au Presse Papier;202   rue Jean Jaurès;94700;Maisons-Alfort;94046;607186,700000;2421702,750000;librairie
+530045;Le Perroquet Vert;123   rue Paul Vaillant-Couturier;94140;Alfortville;94002;605961,552655;2423345,920612;café tabac
+530046;;3   rue du maréchal Juin;94700;Maisons-Alfort;94046;606805,210281;2424116,007782;café tabac
+530047;Le Tabac Du Château;21   rue du château;94000;Créteil;94028;608823,748019;2421690,499161;café tabac
+530048;Le Condorcet;230   avenue de la République;94700;Maisons-Alfort;94046;608746,766805;2423520,103366;café tabac
+530049;Khisy Kf;11   rue du docteur Ramon;94000;Créteil;94028;609616,403250;2419523,953243;café tabac
+530050;Le Balto;46   avenue du général Leclerc;94700;Maisons-Alfort;94046;607462,525000;2423207,952000;café tabac
+530051;Studio-Presse;17   rue Jean Jaurès;94240;L'Haÿ-les-Roses;94038;599898,056054;2420000,310763;librairie
+530052;Le Toulousain;1   rue Émile Zola;94800;Villejuif;94076;602571,919644;2422808,753090;librairie
+530053;  ;106   rue de Bicêtre;94240;L'Haÿ-les-Roses;94038;601274,230000;2419767,756000;tabac librairie
+530054;;7   rue Léon Blum;94240;L'Haÿ-les-Roses;94038;599033,218305;2418677,059356;tabac librairie
+530055;;33   avenue de Paris;94800;Villejuif;94076;601996,767054;2423023,802882;tabac loto
+530056;;60   avenue de Paris;94800;Villejuif;94076;602048,783000;2422691,066000;café tabac
+530057;;9   rue Verollot;94800;Villejuif;94076;602445,160000;2423002,745000;café tabac
+530058;Le Tabariot;2   rue Audigeois;94400;Vitry-sur-Seine;94081;603992,137401;2421439,291129;tabac
+530059;;4   rue de Briquebec;94190;Villeneuve-Saint-Georges;94078;608600,184852;2415765,230539;presse
+530060;Le Kennedy;11   Place Gabriel Faure;94000;Créteil;94028;609265,310400;2420024,452000;café tabac
+530061;LE VAILLANT;122   rue Edouard Vaillant;94140;Alfortville;94002;606070,022577;2423309,447178;café tabac
+530062;  ;63   rue du Moulin de Saquet;94800;Villejuif;94076;602573,067842;2421361,356218;tabac presse
+530063;Le Dispan;3   rue Dispan;94240;L'Haÿ-les-Roses;94038;600158,152481;2420054,154930;café tabac
+530064;La Passerelle;278   rue de Paris;94190;Villeneuve-Saint-Georges;94078;608102,500000;2416335,681000;café tabac
+530065;Le départ;3   Rue du Chemin de Fer;94600;Choisy-le-Roi;94022;605773,639704;2418111,486696;café
+530066;La Civette;2   avenue Leon Jouhaux ;92160;Antony;92002;597455,300000;2415307,300000;tabac presse
+530067;L‘observatoire;55   avenue de la cour de France;91260;Juvisy-sur-Orge;91326;602538,637466;2410604,364035;café tabac
+530068;LE WEEK END;31   avenue des Dahlias;94240;L'Haÿ-les-Roses;94038;601184,007000;2419949,192000;café tabac
+530069;MAXI TABAC;17 b   avenue maximilien Robespierre;94400;VITRY SUR SEINE;94081;603782,370122;2421391,900881;presse
+530070;Le Français;25   avenue Lucien Français;94400;Vitry-Sur-Seine;94081;603675,238807;2420937,994463;café tabac
+530071;LE REINITAS;28   RUE CHAMPAGNE;94700;Maisons-Alfort;94046;607231,782000;2423847,447000;café tabac
+530072;Tabac Press Gagarin;92   rue Youri Gagarine;94800;Villejuif;94076;601590,591000;2420557,786000;tabac librairie
+530073;  L'ESCALE;111   avenue de la République;91600;Savigny-sur-Orge;91589;601095,738317;2410261,660273;tabac presse
+530075;Clair De Plume;34   avenue Youri Gagarine (c.cial.;94400;Vitry-sur-Seine;94081;604052,773414;2420836,951949;tabac librairie
+530076;La Gavotte;10   place Degas;94370;Sucy-en-Brie;94071;613948,247739;2419595,711179;café tabac
+530077;Les Lettres De Notr;0   C.Cia du moulin de Chennevière;94430;Chennevières-sur-Marne;94019;614385,208000;2421431,421000;tabac librairie
+530078;Café De La Mairie;4   avenue Vladimir d'Ormesson;94490;Ormesson-sur-Marne;94055;612951,163000;2420287,573500;café tabac
+530079;L‘hirondelle;9   route de la Libération;94430;Chennevières-sur-Marne;94019;614879,350000;2422699,400000;café tabac
+530080;Cigare Et La Flamme;85   route de Provins;94490;Ormesson-sur-Marne;94055;615936,189212;2421694,922373;tabac
+530081;Le Kennedy;90   rue Garibaldi;94100;Saint-Maur-des-Fossés;94068;611030,569000;2421727,277000;café tabac
+530082;Les Mûriers;82   avenue de Bonneuil;94210;La Varenne St Hilaire;94901;612167,327301;2421226,371158;café tabac
+530083;Le Diplomate;2   place Jacques Tati;94100;Saint-Maur-des-Fossés;94068;610976,815000;2422197,177000;café tabac
+530084;Le Liberté;13   place des Libertés;94380;Bonneuil-sur-Marne;94011;611057,557570;2418443,571514;tabac presse
+530086;Au Petit Bar Breton;206   boulevard du général Giraud;94100;Saint-Maur-des-Fossés;94068;611396,297236;2421031,927297;café tabac
+530088;Librairie Ziriat;3   allée Edith Piaf C.cial Fabien;94380;Bonneuil-Sur-Marne;94011;611074,630887;2419260,534376;librairie
+530089;Tabac Les 4 Chemins;123   avenue Foch;94100;Saint-Maur-des-Fossés;94068;612205,584042;2422186,887316;café tabac
+530090;tabc du marché;9   rue Bobillot;94100;Saint-Maur-des-Fossés;94068;610063,289000;2423159,686000;tabac loto
+530091;Le Narval;2   avenue Diderot;94100;Saint-Maur-des-Fossés;94068;610371,475823;2422472,201828;café tabac
+530092;L'Etincelle;86   avenue du Bac;94210;La Varenne St Hilaire;94901;613088,617480;2421690,587140;tabac loto
+530093;Aux livres Valentin;1   Avenue du Maréchal mortier;94510;La Queue-en-Brie;94060;617719,617464;2421435,734411;tabac librairie
+530094;Tabac De La Mairie;5   rue d'Estienne d'Orves;94380;Bonneuil-sur-Marne;94011;611116,057617;2419535,949711;café tabac
+530095;Librairie Des École;179   rue d'Alésia;75014;Paris 14e;75114;598578,688000;2425863,428000;librairie
+530096;Le Naguère;66   rue Daguerre;75014;Paris 14e;75114;599254,445000;2426309,113000;café tabac
+530097;Librairie Des Cotte;10   rue du docteur Roux;91160;Longjumeau;91345;596840,899179;2410238,000821;tabac presse
+530098;Couleur Tabac;2   rue Rémy Dumoncel;75014;Paris 14e;75114;599802,245283;2425713,178110;tabac loto
+530099;Le Village Café;1   rue de la Division Leclerc;91160;Champlan;91136;595426,794384;2412214,213417;café tabac
+530100;  ;.   place de la Libération;91380;Chilly-Mazarin;91161;598843,895020;2411558,203275;librairie
+530101;  ;163   rue du président François Mitt;91160;Longjumeau;91345;596500,787906;2410193,858059;tabac presse
+530102;Le Cardinal;71   rue  Pierre Mendès France;91380;Chilly-Mazarin;91161;598087,729000;2410625,109000;café tabac
+530103;Le Calumet;30   rue Notre-Dame-des-Champs;75006;Paris 6e;75106;599407,650000;2427429,800000;café tabac
+530104;La Passion De Lire;62   rue Gabriel Péri;91300;Massy;91377;595546,337330;2414581,004252;librairie
+530105;Le Balto;2   place de L'Église;91430;Igny;91312;591869,226015;2416028,949912;tabac
+530106;Le Marigny;7   place Lucien Boilleau;91420;Morangis;91432;599909,244741;2411991,879167;café tabac
+530107;  ;67   avenue de Bourg la Reine;92330;Sceaux;92071;597748,185000;2420730,761000;tabac presse
+530108;Les Deux Rivières;10   allée Albert Thomas;91300;Massy;91377;594517,056941;2415173,047951;presse
+530109;Tabac Du Parc ;25   avenue Reille;75014;Paris 14e;75114;599946,059655;2425089,458987;café tabac
+530110;Le Petit Chambord;149   avenue du général Leclerc;92340;Bourg-la-Reine;92014;598339,776445;2419699,926737;café tabac
+530111;Le Calumet;36   Av.mazarin;91380;chilly mazarin;91161;598346,900000;2411907,700000;tabac librairie
+530112;L‘acrostiche;1   rue Sully Prud'Homme;92320;Châtillon;92020;596921,275681;2423455,500000;librairie
+530113;Le Rond Point;18   place Jean Jaurès;92120;Montrouge;92049;598145,046081;2424182,153919;tabac
+530114;Tabac Du Clos;2   boulevard du colonel Fabien;92240;Malakoff;92046;595718,353648;2423978,768868;tabac
+530115;  ;/   place du général de Gaulle;92260;Fontenay-aux-Roses;92032;596382,454717;2421503,705651;presse
+530116;Tabac Le Verdon;127   avenue Verdier;92120;Montrouge;92049;597750,089000;2424206,983000;tabac loto
+530117;Librairie Du Centre;79   avenue de la République;92120;Montrouge;92049;598611,482339;2424104,715194;librairie
+530118;  ;19   rue du Paradis;92260;Fontenay-aux-Roses;92032;597195,963000;2420819,247000;librairie
+530119;Le Fresnay;106   avenue Ravera;92220;Bagneux;92007;598007,973000;2422501,235000;café tabac
+530120;  ;99   Av. de la Division Leclerc;92290;Châtenay-Malabry;92019;596011,073639;2418228,465636;café tabac
+530121;  ;3   place de L'Église;92260;Fontenay-aux-Roses;92032;596576,593000;2421367,140000;tabac librairie
+530122;Le Jean Nicot;432   avenue de la Division Leclerc;92290;Châtenay-Malabry;92019;593776,167314;2418880,107834;café tabac
+530123;Les Brugnauts;10   place des Brugnauts;92220;Bagneux;92007;597386,738896;2421278,148875;tabac loto
+530124;La Civette;4   rue Jean-Pierre Timbaud;92320;Châtillon;92020;596365,835306;2422622,466329;tabac loto
+530125;  ;2   rue Maurice Bouchor;92240;Malakoff;92046;596170,200000;2423727,300000;tabac librairie
+530126;L'Avenir;41   rue Béranger;92320;Châtillon;92020;596007,439000;2423053,637000;café tabac
+530127;Le Tom Tip;127   rue Paul Vaillant-Couturier;92240;Malakoff;92046;596768,650000;2424245,400000;tabac
+530128;Le Bretagne;2   Rue de la République;92220;Bagneux;92007;597465,404571;2421950,050950;tabac librairie
+530129;  ;43   avenue Henri Barbusse;92220;Bagneux;92007;598498,021000;2422596,323000;tabac presse
+530130;Hôtel Du Parc;5   avenue de la Division Leclerc;92290;Châtenay-Malabry;92019;596610,279558;2418106,049832;tabac loto
+530131;A la découverte de..;188   avenue aristide briand;92220;Bagneux;92007;598871,456518;2421798,517377;librairie
+530132;La Tabatière;28   rue Esther Cordier;92320;Châtillon;92020;596697,218521;2423331,380691;tabac
+530133;Le Monde en Marche;60   avenue de paris;92320;Châtillon;92020;596746,947872;2423075,230925;presse
+530135;  La Civette;6   rue Racine;75006;Paris 6e;75106;600319,461671;2427969,370668;tabac
+530136;Le Mouton Qui Fume;34   rue François Mouthon;91380;chilly mazarin;91161;598534,616523;2411686,962426;tabac librairie
+530137;Le Cristal;1   Square Henri Sellier;92290;Châtenay-Malabry;92019;593851,361726;2418427,882503;librairie
+530138;LibraireGardan;5   place Léon Gambetta;94200;Ivry-sur-Seine;94041;604821,681594;2424010,022990;librairie
+530139;Tabac de La Sorbonne;7   place de la Sorbonne;75005;Paris 5e;75105;600377,641945;2427816,716611;café tabac
+530140;  La Corona;21   boulevard saint-Michel;75005;Paris 5e;75105;600489,747177;2428117,176861;tabac
+530141;  Le Tabarium;27   avenue des Gobelins;75013;Paris 13e;75113;601138,421901;2426464,018920;tabac loto
+530142;  Le Celtique;25   boulevard Auguste Blanqui;75013;Paris 13e;75113;601197,864586;2425777,451844;café tabac
+530143;  Le Mistral;7   rue Marivaux;75002;Paris 2e;75102;600070,142894;2430279,671556;café tabac
+530144;Le Havane;102   rue Montorgeuil;75002;Paris 2e;75102;600780,584000;2429779,056000;café tabac
+530145;Tabac Presse Loto;10   place Pinel;75013;Paris 13e;75113;601855,503802;2426119,090223;tabac presse
+530146;Le Rond-Point ;123   rue Monge;75005;Paris 5e;75105;601041,015481;2426683,096735;café tabac
+530147;  l'Etincelle;82   boulevard Paul Vaillant-Coutur;94200;Ivry-sur-Seine;94041;604621,385332;2424277,273668;café tabac
+530148;  l'Escale;14   avenue de Verdun;94200;Ivry-sur-Seine;94041;602304,668323;2424179,744048;café tabac
+530149;Le Dôme De Rungis;2   place de Rungis;75013;Paris 13e;75113;600780,241953;2424878,214760;café tabac
+530150;Tabac Du Châtelet;8   rue saint-Denis;75001;Paris 1er;75101;600799,844497;2428922,268122;café tabac
+530151;Le Longchamp;34   avenue de Verdun;94200;Ivry-sur-Seine;94041;602484,089432;2423838,646122;café tabac
+530152;  ;156   rue de Tolbiac;75013;Paris 13e;75113;601307,858000;2425293,777000;librairie
+530153;Le Marigny;86   boulevard de Port-Royal;75005;Paris 5e;75105;600231,097000;2426725,100000;café tabac
+530154;  Le Lucky;65   rue d'Aboukir;75002;Paris 2e;75102;600718,848000;2429917,550000;café tabac
+530155;Le Ventadour;46   rue des Petits-Champs;75002;Paris 2e;75102;599857,000000;2429883,695000;café tabac
+530156;Etcetera;10   rue des Halles;75001;Paris 1er;75101;600754,478000;2429039,234000;tabac
+530157;Tabac Des Sports;35   avenue de la porte de Choisy;75013;Paris 13e;75113;602085,809040;2424599,910643;café tabac
+530158;  ;129   boulevard Masséna;75013;Paris 13e;75113;601873,150967;2424535,475578;café tabac
+530159;Yen Presse;215   rue de Tolbiac;75013;Paris 13e;75113;600763,300000;2425259,000000;presse
+530160;Mokafée;125   boulevard Paul Vaillant-Coutur;94200;Ivry-sur-Seine;94041;604814,704675;2424027,177672;café tabac
+530161;Tabac Des Capucines;12   rue des Capucines;75001;Paris 1er;75101;599473,109122;2430069,289179;café tabac
+530162;  ;81   boulevard de Brandebourg;94200;Ivry-sur-Seine;94041;604057,658490;2424019,140803;café tabac
+530164;Vélocivette;22   rue Turbigo;75002;Paris 2e;75102;601043,452033;2429547,094023;tabac
+530165;Maison de la Terre;7   rue Elsa Morante;75013;Paris 13e;75113;603349,011000;2425583,426000;librairie
+530166;La Glacière;89   rue de la Glacière;75013;Paris 13e;75113;600506,175000;2425656,313000;tabac librairie
+530167;Le MONGE;77   rue Monge;75005;Paris 5e;75105;601149,250000;2427166,600000;café tabac
+530168;Le Parmentier;2   avenue de la République;94200;Ivry-sur-Seine;94041;604062,494431;2423191,567546;tabac loto
+530169;LE Pt FLORE;6   rue Croix des Petits Champs;75001;Paris 1er;75101;600204,133083;2429358,999136;café tabac
+530170;KIOSQUE;1   place Colette;75001;Paris 1er;75101;599926,203000;2429426,837000;presse
+530171;;54   boulevard saint-Germain;75005;Paris 5e;75105;600947,510000;2427946,587000;civette
+530172;Tante Lapin;83   rue Bobillot;75013;Paris 13e;75113;600990,650000;2425229,650000;librairie
+530173;Le Naja;56   avenue des Gobelins;75013;Paris 13e;75113;601283,559000;2426151,783600;café tabac
+530174;Tabac Cafe De L'Arr;16   rue du docteur Gosselin;94230;Cachan;94016;599408,180714;2422323,631247;café tabac
+530175;Les Tanneurs;2 Bis   Allées des Tanneurs;94250;Gentilly;94037;601240,624838;2424139,494790;presse
+530176;Le Mariland;147   rue du Chevaleret;75013;Paris 13e;75113;602572,501000;2425999,599000;café tabac
+530177;Civette De Lacoupole;3   place des Marseillais;94220;Charenton-le-Pont;94018;605986,235467;2424482,514667;tabac
+530178;Le Brazza;123   avenue Aristide Briand;94110;Arcueil;94003;599096,397000;2422630,163000;café tabac
+530179;Tabac De La Plaine;4   rue François Villon;94230;Cachan;94016;599636,098386;2420815,674122;tabac librairie
+530180;Le Gallia;54   avenue Raspail;94250;Gentilly;94037;600918,113900;2423957,857300;café tabac
+530181;A La Croix D'Arcuei;71   avenue Aristide Briand;94110;Arcueil;94003;599202,027783;2423034,056393;café tabac
+530182; Le Mirbel;4   rue de Mirbel;75005;Paris 5e;75105;601129,853861;2426942,103351;café tabac
+530183; L'Ariel;242   rue de Tolbiac;75013;Paris 13e;75113;600408,633000;2425335,598000;café tabac
+530184; Le Bac Saint-Michel;97   Bd St-Michel;75005;Paris 5e;75105;600205,280083;2427354,818483;café tabac
+530185; Arago;53   Bd Arago;75013;Paris 13e;75113;600622,979000;2426287,681000;café tabac
+530186;  L'Arche 13;82   Bd Masséna;75013;Paris 13e;75113;602331,335698;2424768,794124;café tabac
+530187;Le Mogador;197   rue de Paris;94220;Charenton-le-Pont;94018;604822,622200;2425618,609400;café tabac
+530188;Librairie Du Parc;13   Av. de la Division Leclerc;94230;Cachan;94016;599465,042876;2420860,110058;café tabac
+530189;Le Jeanne d' Arc;2   rue Jeanne d'Arc;75013;Paris 13e;75113;602449,643000;2425587,905000;café tabac
+530190;A Jean Nicot;173   rue Saint-Honoré;75001;Paris 1er;75101;599807,084000;2429517,897800;café tabac
+530191;Le Café Frappé;95   rue Montmartre;75002;Paris 2e;75102;600526,850000;2429960,450000;café tabac
+530192;BLANQUI 13;85   AUGUSTE BLANQUI;75013;Paris 13e;75113;600778,129000;2425735,570250;librairie
+530193;Le Chaperon Vert;13   Première avenue (cité Chaperon;94110;Arcueil;94003;599824,951000;2423602,248000;tabac librairie
+530194;La Bouffarde;124   rue de Tolbiac;75013;Paris 13e;75113;601720,946080;2425309,135156;tabac
+530195;la tabatiere;17   boulevard Montmartre;75002;Paris 2e;75102;600343,327500;2430385,891000;tabac loto
+530196;SNC les oliviers ;66   rue Claude Bernard;75005;Paris 5e;75105;600727,143336;2426863,691332;tabac presse
+530197;Tabac Anaïs;12   Bd . Vincent AURIOL;75013;Paris 13e;75113;602656,102527;2426530,135930;tabac loto
+530198;Page Massena 13;96   Bd Massena;75013;Paris 13e;75113;602253,531530;2424729,486038;tabac loto
+530199;Tabac de la Gare;67   Av. du Mal de LATTRE de TASSIG;94140;Alfortville;94002;606567,589142;2422621,029615;café tabac
+530200;Korum-Café;12   Neuve Tolbiac;75013;Paris 13e;75113;603111,113069;2425946,166791;café tabac
+530201;Café Lilou;62   Bd du Port Royal.;75005;Paris 5e;75105;600661,851000;2426584,812000;café tabac
+530202;Les Sport;96   Av. de Verdun. 94200 ;94200;Ivry-sur-Seine;94041;602828,025899;2423167,548086;café tabac
+530203;Concorde;1   Av. du Dr ROUX. 94380;94380;Bonneuil-sur-Marne;94011;610446,830406;2418846,871350;café tabac
+530204;L'Express;2   Rue du Président Robert Lakota;91270;Vigneux-sur-Seine;91657;605701,030910;2412136,005285;café tabac
+530205;La Civette;107   Avenue du Général de Gaulle;94000;Créteil;94028;608215,850311;2422155,963940;tabac loto
+530206;Tabac Alfa;40   Rue Monge;75005;Paris 5e;75105;601135,154530;2427479,056982;café tabac
+530208;le Monaco;52/54   Rue de Prt François MITTERAND;91160;Longjumeau;91345;596952,817556;2410983,168408;café tabac
+530209;Tabac des Sports;29   R. Jean Jaurès;94510;La Queue-en-Brie;94060;617800,901334;2420772,663622;café tabac
+530210;Le Fontenoy;135    Av. de la Division LECLERC;92160;Antony;92002;597522,383389;2416026,504300;café tabac
+530211;Le Gambetta;1   Place de Rimini;94100;Saint-Maur-des-Fossés;94068;611742,460707;2421722,527431;café tabac
+530212;Le Chiquito;61    Av. du Général de Gaulle;94700;Maisons-Alfort;94046;606861,671417;2422627,401029;café tabac
+530213;le Paris Rome;11 Bi   Av. Louis Pasteur;92220;Bagneux;92007;598597,210370;2422161,415106;café tabac
+530214;Tabac du Marché;12   Av. Karl Marx;94800;Villejuif;94076;601848,113629;2420670,843800;tabac loto
+530215;SUN KFE;34   Bd. de l'Hopital;75005;Paris 5e;75105;601890,559572;2426914,806837;café tabac
+530216;Librairie des Templi;14   Place des Charmilles;91160;Longjumeau;91345;598421,436000;2409522,652000;librairie
+530217;Les Brugnauts;10   place des Brugnauts;92220;Bagneux;92007;597386,738896;2421278,148875;tabac loto
+540001;Tabac De La Cité;221   boulevard Théophile Sueur;93100;Montreuil;93048;609563,637000;2428985,476000;café tabac
+540002;Tabac De La Tourell;170   avenue de Paris;94300;Vincennes;94080;606088,750000;2427560,400000;tabac loto
+540003;Le Calumet;76   rue de Paris;93260;Les Lilas;93045;605700,820590;2431214,838884;civette
+540004;  ;5   avenue Faidherbe;93310;Le-Pre-Saint-Gervais;93061;605533,100819;2431177,277072;civette
+540005;Le Pasteur;10   avenue Pasteur;93100;Montreuil;93048;607653,690772;2429428,713935;café tabac
+540006;Le Bus;40   avenue du général de Gaulle;93170;Bagnolet;93006;605917,477563;2429564,115564;café tabac
+540007;Le Royal;40   boulevard général Leclerc;93260;Les Lilas;93045;606505,380714;2431412,192143;café tabac
+540008;Le Saint Laurent;64   boulevard Rouget de L'Isle;93100;Montreuil;93048;607279,679318;2428838,047173;café tabac
+540009;  ;160   rue de la République;93230;Romainville;93063;607086,616301;2431199,859528;tabac presse
+540010;La Civette;35   boulevard Aristide Briand;93100;Montreuil;93048;608284,469736;2430188,372297;tabac presse
+540011;Le Temps Retrouvé;4   rue Raoul Berton;93170;Bagnolet;93006;605967,227265;2430014,067731;librairie
+540013;  ;47   avenue de Stalingrad;93170;Bagnolet;93006;606785,921000;2430547,718000;tabac presse
+540014;Tabac De Rosny 2;2   avenue de général de Gaulle;93110;Rosny-sous-Bois;93064;610710,073000;2430679,733000;tabac presse
+540015;  ;24   rue Girardot;93170;Bagnolet;93006;606579,470614;2430677,478465;tabac presse
+540016;Le Marigny;65   rue de Fontenay;94300;Vincennes;94080;607477,176000;2427755,710000;café tabac
+540017;  ;33   rue des clos Français;93100;Montreuil;93048;607045,494596;2429710,330642;tabac presse
+540018;La Roseraie;9   rue du général Leclerc;93110;Rosny-sous-Bois;93064;611032,779264;2430315,180988;café tabac
+540021;Flore De La Havane;246   boulevard A. Briand;93100;Montreuil;93048;608838,914245;2431021,488102;tabac loto
+540023;Le Brazza;8   route de Montreuil;93230;Romainville;93063;608281,132000;2431167,525000;café tabac
+540024;Le Berry;64   boulevard de la Libération;94300;Vincennes;94080;608061,833870;2427714,465248;café tabac
+540025;Le Bois;1   rue Félix Faure;94300;Vincennes;94080;608464,694507;2427628,207235;café tabac
+540026;Le Drapeau;18   avenue de Paris;94300;Vincennes;94080;607333,817959;2427387,987140;tabac loto
+540027;;80   rue Jean Mermoz;93110;Rosny-sous-Bois;93064;611202,731878;2431416,563104;tabac loto
+540028;La Paix;148   rue des Ruffins;93100;Montreuil;93048;610139,468301;2429221,047824;café tabac
+540029;Brasserie Saint Ger;120   rue de Bagnolet;75020;Paris 20e;75120;604948,319949;2429088,393612;café tabac
+540030;Au Balcon;142   boulevard de Ménilmontant;75020;Paris 20e;75120;603458,490658;2429792,022106;civette
+540031;Le Tierce;3   place Auguste Métivier;75020;Paris 20e;75120;603784,731219;2429422,179059;café tabac
+540032;La Gascogne;1   square de Gascogne;75020;Paris 20e;75120;605434,478188;2428419,867940;tabac loto
+540033;Les Courtilles;151   rue de Bagnolet;75020;Paris 20e;75120;605157,221420;2429389,042249;tabac librairie
+540034;Les Incorruptibles;102   avenue du général de Gaulle;94160;Saint-Mandé;94067;605984,570319;2426588,442559;café tabac
+540036;Le Romy'S;11   place Gambetta;75020;Paris 20e;75120;604535,248719;2429638,242853;civette
+540037;Le Baccara;66   rue de Belleville;75020;Paris 20e;75120;603422,544417;2430575,484034;café tabac
+540038;Le Reveil Matin;135   rue de Ménilmontant;75020;Paris 20e;75120;604349,019197;2430198,090205;café tabac
+540039;Le Narval;93   rue d'Avron;75020;Paris 20e;75120;605074,800000;2428254,700000;café tabac
+540040;Au Bon Coin;2   boulevard Davout;75020;Paris 20e;75120;605485,300000;2427713,500000;tabac librairie
+540042;L‘aurore;82   rue Belgrand;75020;Paris 20e;75120;605285,361105;2429576,901399;café tabac
+540043;  ;164   rue de la Roquette;75011;Paris 11e;75111;603508,267000;2428929,997000;tabac loto
+540044;L'Étoile D'Or;94   avenue Philippe Auguste;75011;Paris 11e;75111;604026,924000;2428595,919000;café tabac
+540045;Le Voltigeur;136   rue des Couronnes;75020;Paris 20e;75120;603885,248831;2430502,404636;tabac loto
+540046;Le Fontenoy Saint M;7   place Charles Digeon;94160;Saint-Mandé;94067;606032,417474;2427249,552539;café tabac
+540047;Le Chiquito;38   rue Levert;75020;Paris 20e;75120;604086,356621;2430749,226412;café tabac
+540048;Tabac Pelleport;127   avenue Gambetta;75020;Paris 20e;75120;604765,598000;2430003,024000;civette
+540050;Le Jean Bart;17   rue Petion;75011;Paris 11e;75111;603285,522539;2428964,440786;café tabac
+540051;Le Cantal;20   rue Deveiria;75020;Paris 20e;75120;604603,435609;2430490,698643;café tabac
+540052;La Lorraine;59   boulevard Mortier;75020;Paris 20e;75120;605319,843803;2429941,422966;café tabac
+540053;L‘obelisque;41   rue saint-Blaise;75020;Paris 20e;75120;605165,036000;2428878,191000;tabac presse
+540054;Le Vizir;126   avenue Parmentier;75011;Paris 11e;75111;602636,277000;2429975,658000;café tabac
+540055;Le Votigeur;59   rue du faubourg saint-Antoine;75011;Paris 11e;75111;602706,100000;2428183,650000;café tabac
+540056;  ;174   boulevard Voltaire;75011;Paris 11e;75111;603509,386000;2428550,860000;librairie
+540057;Tabac Saint-Antoine;203   rue du faubourg saint-Antoine;75011;Paris 11e;75111;603375,824552;2428012,776763;café tabac
+540058;Le Gallia;39   rue saint-Ambroise;75011;Paris 11e;75111;603139,448435;2429415,246931;café tabac
+540059;Voltaire Presse;209   boulevard Voltaire;75011;Paris 11e;75111;603862,655000;2428232,871000;librairie
+540060;11 Avenue;46   avenue Parmentier;75011;Paris 11e;75111;602994,941000;2429259,437000;café tabac
+540061;Le Royal Parmentier;17   avenue Parmentier;75011;Paris 11e;75111;603080,350000;2429127,900000;café tabac
+540062;Havana'S;88bis   avenue Parmentier;75011;Paris 11e;75111;602789,223634;2429663,800085;tabac loto
+540063;Le Morzine;32   boulevard Richard-Lenoir;75011;Paris 11e;75111;602545,221000;2428744,705000;café tabac
+540064;Le Jean Bart;159   rue de Paris;93260;Les Lilas;93045;606003,907795;2431352,315637;café tabac
+540065;Le Saint Fargeau;108   avenue Gambetta;75020;Paris 20e;75120;604955,108000;2430333,896000;café tabac
+540066;La Campagne À Paris;8   rue Henri Duvernois;75020;Paris 20e;75120;605481,116574;2429408,848826;tabac presse
+540067;  ;5   rue Eugène Varlin;93100;Montreuil;93048;608095,083000;2429048,573000;tabac presse
+540068;Le Philosophe;262   boulevard Voltaire;75011;Paris 11e;75111;604078,791000;2428037,388000;café tabac
+540069;Tabac Des Rigollots;153   rue Defrance;94300;Vincennes;94080;608788,541000;2427914,683334;café tabac
+540070;L' AUBISQUE;113   rue des Pyrénées;75020;Paris 20e;75120;605024,020650;2428648,963446;café tabac
+540071;Le Carnot;1   avenue de Verdun;93230;Romainville;93063;607639,950000;2431727,959000;tabac loto
+540072;Le Soleil Levant;55   Av.de la Republique;75011;Paris ;75111;603039,329000;2429588,301000;café tabac
+540073;Tabac Roquette;41   rue de la Roquette;75011;Paris 11e;75111;602734,571234;2428545,916104;civette
+540074;Le Celtique;175   boulevard de la Boissière;93100;Montreuil;93048;609199,112743;2431015,155970;café tabac
+540076;Fer A Cheval;73   avenue Adrien Raynal;94310;Orly;94054;605240,107151;2416258,885663;café tabac
+540077;Librairie Résidence;42   rue des Froides Bouillies;91200;Athis-Mons;91027;601969,180775;2411890,496153;tabac librairie
+540078;Toum Tabac;.   C. Cial de la Croix du Sud;94550;Chevilly-Larue;94021;600158,550000;2419034,300000;tabac
+540079;Civette Des Gondole;64   avenue Victor Hugo;94600;Choisy-le-Roi;94022;606225,700000;2418935,700000;café tabac
+540081;Le Rouget De Lisle;7   rue Jean Jaurès;94600;Choisy-le-Roi;94022;605206,639109;2418475,296061;café tabac
+540082;Tabac De La Gare;3   place de la Gare;91600;Savigny-sur-Orge;91589;601110,835215;2408620,904817;café tabac
+540083;Le Fontenoy;34   avenue François Mitterrand;91200;Athis-Mons;91027;602607,473802;2411351,343774;tabac presse
+540084;Tabac De La Tour;15   rue de la Tour;94550;Chevilly-Larue;94021;601657,996000;2418335,576000;café tabac
+540085;  ;71   avenue Aristide Briand;92160;Antony;92002;597818,136857;2417744,174000;presse
+540086;  ;48   avenue Jean Mermoz;91170;Viry-Châtillon;91687;602268,952000;2406689,313000;tabac presse
+540087;  ;28   Grande rue;91260;Juvisy-sur-Orge;91326;602935,183900;2410037,088060;café tabac
+540088;Le Diplomate;57   avenue de la République;94260;Fresnes;94034;598706,323176;2417978,312405;café tabac
+540089;Au Buisson;28   rue d'Estienne d'Orves;91370;Verrières-le-Buisson;91645;594871,987088;2416667,535712;café tabac
+540090;Orly presse;8   place du fer à cheval;94310;Orly;94054;604937,195000;2416126,872000;librairie
+540091;La Belle Étoile;9   place du Marché;94320;Thiais;94073;604068,566162;2418440,771393;café tabac
+540092;TRAM'S Café;2   avenue de la République;94550;Chevilly-Larue;94021;602307,968618;2418353,283996;café tabac
+540093;;18   boulevard du maréchal Juin;91370;Verrières-le-Buisson;91645;595300,050000;2417155,150000;tabac
+540094;Le Napoléon;9   rue Albert 1er;94600;Choisy-le-Roi;94022;605457,508175;2417626,988186;café tabac
+540095;Le Diplomate;103   rue du général Leclerc;94000;Créteil;94028;609530,693730;2421232,714947;café tabac
+540096;Hall De Presse;12   allée du Commerce;94000;Créteil;94028;610015,611999;2419966,169143;librairie
+540097;Le Port;9   av.du Gén.Pierre Billotte;94000;Créteil;94028;608801,949535;2419641,181711;tabac presse
+540098;Le Royal Bleuet;115   rue Chéret;94000;Créteil;94028;608792,902357;2423032,737295;café tabac
+540099;Le Calumet;.    C. Cial Créteil Soleil;94000;Créteil;94028;608698,550000;2420398,400000;tabac
+540100;Tabac Laporte;22   cours des Juilliottes;94700;Maisons-Alfort;94046;607869,654426;2422887,591872;tabac
+540101;L‘auréole;8   Bd de Montaigut;94000;Créteil;94028;607825,013730;2421483,747115;tabac librairie
+540102;Tabac De La Mairie;175   rue Paul Vaillant-Couturier;94140;Alfortville;94002;606103,350000;2422917,100000;café tabac
+540103;Totem;27   rue de Falkirk;94000;Créteil;94028;609069,806984;2419247,259362;tabac presse
+540104;La Bonne Fortune;65   avenue François Mitterrand;94000;Créteil;94028;609648,314762;2418912,906325;tabac presse
+540106;La Civette;29   avenue de la République;94700;Maisons-Alfort;94046;607137,829828;2422687,402162;café tabac
+540107;L‘interlude;2   rue saint-Simon;94000;Créteil;94028;608577,817153;2421363,399328;café tabac
+540108;Eliyah;2   rue Eugène Henaff (c. Cial );94400;Vitry-sur-Seine;94081;605942,204066;2421783,886909;tabac librairie
+540109;Chez Robert;1   rue des 3 Frères Mimerel;94400;Vitry-sur-Seine;94081;602648,210007;2419353,727566;café tabac
+540110;Maison De La Presse;81   avenue du général de Gaulle;94240;L'Haÿ-les-Roses;94038;600644,150000;2420540,765909;tabac librairie
+540111;Le Terminus;126   rue Jean Jaurès;94800;Villejuif;94076;602228,141320;2421129,297800;tabac loto
+540112;Toute La Presse;5   avenue Aristide Briand;94240;L'Haÿ-les-Roses;94038;599914,292388;2420094,139329;librairie
+540113;Le Nemrod;124   rue Julien Grimau;94400;Vitry-sur-Seine;94081;602984,096827;2419876,836335;café tabac
+540114;Le Fontenoy;120   avenue Ernest Havet;94400;Vitry-sur-Seine;94081;604868,048533;2421277,206016;café tabac
+540115;Le Rallye;77   rue Jean Jaurès;94800;Villejuif;94076;602204,000000;2421601,300000;café tabac
+540116;  ;131   boulevard Stalingrad;94400;Vitry-sur-Seine;94081;603118,741456;2422580,299901;librairie
+540117;  ;25   rue du docteur Calmette;94400;Vitry-sur-Seine;94081;603657,992000;2422631,161000;tabac loto
+540119;Le Royal;36   rue Marcel Grosmenil;94800;Villejuif;94076;601357,488000;2422212,050000;café tabac
+540120;Le Reinitas;6   place Paul Froment;94400;Vitry-sur-Seine;94081;604830,483508;2420894,855640;café tabac
+540121;Le Royal;9   rue de Chevilly;94240;L'Haÿ-les-Roses;94038;600329,209660;2419757,646336;café tabac
+540122;Le France ;33   avenue Eva Salmon;94400;Vitry-sur-Seine;94081;604895,753796;2422599,580588;tabac librairie
+540123;Le Petit Robinson;1   avenue Henri Barbusse;94240;L'Haÿ-les-Roses;94038;599376,500000;2420118,286034;café tabac
+540124;;2BIS   avenue du 25 août 1944;94320;Thiais;94073;604777,134939;2418265,618569;presse
+540125;Le Gitane;110   avenue du Colonel Fabien;94400;Vitry-sur-Seine;94081;602945,688000;2420950,669000;café tabac
+540126;Cafe De La Mairie;2   place de L'Église;91200;Athis-Mons;91027;603866,944000;2412195,465000;café tabac
+540127;Le Pari;6   place Charles de Gaulle;94150;Rungis;94065;601046,961238;2416738,366431;café tabac
+540128;Café du bonheur;63   rue Chéret;94000;Créteil;94028;609108,471168;2422708,445565;café tabac
+540129;J'AI DU BON TABAC;1   avenue Aristid Briand;92160;Antony;92002;597683,891000;2417221,362000;tabac
+540130;LE MARIGNY;4   rue Henri Cretté ;94550;Chevilly-Larue;94021;601392,203830;2419213,994733;café tabac
+540131;Le Totem;63   avenue Paul Vaillant-Couturier;94400;Vitry-sur-Seine;94081;604617,074400;2422124,384800;tabac presse
+540132;Le Clemenceau;36   rue Georges Clemenceau;94600;Choisy-le-Roi;94022;605034,093947;2418686,174637;café tabac
+540133;Le Jean Bart;155   avenue de Morangis;91200;Athis-Mons;91027;602297,932388;2411914,764831;café tabac
+540134;Tabac Du Marché;56   avenue Georges Clemenceau;94700;Maisons-Alfort;94046;607863,950000;2423510,169000;tabac presse
+540135;MAG PRESSE;67   avenue de Stalingrad;94800;Villejuif;94076;602250,751000;2420559,069000;presse
+540136;Le Disque Bleu;29   avenue Paul Vaillant-Couturier;94800;Villejuif;94076;601938,444000;2421812,850000;café tabac
+540137;Café Tabac Du March;56   rue des Héros Nogentais;94130;Nogent-sur-Marne;94052;611071,396805;2426678,856230;café tabac
+540138;La Venture;1   avenue des Pyramides;77420;Champs-sur-Marne;77083;618120,871131;2428530,204441;tabac
+540139;Tabac De La Gare;2   avenue du maréchal Foch;77500;Chelles;77108;618012,479422;2430728,436352;café tabac
+540140;Le Totem;1   C. Cial du Val de Fontenay;94120;Fontenay-sous-Bois;94033;609784,677198;2428379,500333;civette
+540141;Tabac De Verdun;72   boulevard de Verdun;94120;Fontenay-sous-Bois;94033;609763,910724;2428395,175657;civette
+540142;Bonn' News;1et 3   avenue du Bicentenaire;94380;Bonneuil-sur-Marne;94011;611283,076264;2418627,626192;librairie
+540143;Le Narval;123   avenue de Paris;94380;Bonneuil-sur-Marne;94011;610191,658707;2420263,156025;café tabac
+540144; Le Watteau;7   Bd de Strasbourg;94130;Nogent-sur-Marne;94052;610145,277653;2426398,080202;café tabac
+540145;Tabac de la Fourchet;1   Avenue du Général de Gaulle;94500;Champigny-sur-Marne;94017;610842,482963;2424649,495922;café tabac
+540146;La Presse;21   R. Louis Calmel;92230;Gennevilliers;92036;596750,471027;2436435,785125;librairie
+540147;  ;148   Av. Gabriel Péri;92230;Gennevilliers;92036;596915,775522;2436337,514030;café tabac
+540148;Le Havane;63   Av. des Grésillons;92230;Gennevilliers;92036;597450,727786;2435207,511992;café tabac
+540149;Le Rallye Villiers;3   Pl. de la Libération;92300;Levallois-Perret;92044;595613,200000;2432804,200000;café tabac
+540150;Le Saint-Claude;11   Av. d'Argenteuil;92600;Asnières-sur-Seine;92004;596295,813000;2434659,278000;café tabac
+540151;Le Lutétia;75   R. Victor Hugo;92300;Levallois-Perret;92044;597064,134000;2433071,608000;café tabac
+540152;Tabac du Marché;31   R. Carnot;92300;Levallois-Perret;92044;596446,773000;2432439,211000;café tabac
+540154;Le Narval;120   R. Anatole France;92300;Levallois-Perret;92044;596000,965771;2433016,715625;café tabac
+540156;Le Royal;57   R. Jean Jaurès;92300;Levallois-Perret;92044;596847,660110;2432671,036228;café tabac
+540157;Tabac De La Mairie;2   rue Mechin;93450;L'Île-Saint-Denis;93039;600315,551845;2437509,315413;café tabac
+540158;Tabac Le Rallye;5   R. du Landy;92110;Clichy;92024;597594,944711;2434024,674893;café tabac
+540159;Tabac de la Mairie;83   Bd Jean Jaurès;92110;Clichy;92024;597645,250994;2433776,577483;café tabac
+540160;Tabac Presse ;8   Av. de la Libération;92230;Gennevilliers;92036;596705,761957;2436266,995323;tabac librairie
+540161;Le Celtique;51   R. Aristide Briand;92300;Levallois-Perret;92044;596279,412000;2432558,892000;café tabac
+540162;Tabac Voltaire;22   Bd. Voltaire;92600;Asnières-sur-Seine;92004;597055,931000;2434888,628000;café tabac
+540163;Le Balto;48   R. Gabriel Péri;92300;Levallois-Perret;92044;596353,386000;2432753,925000;café tabac
+540165;Le Presse Book;12   R. Trébois;92300;Levallois-Perret;92044;596612,589959;2432481,198771;librairie
+540166;Tabac République;1   Pl. de la République;92110;Clichy;92024;598283,205867;2433861,557342;café tabac
+540167; Le Pomelo;80   Bd Maxime Gorki;93240;Stains;93072;603683,518481;2438495,094068;tabac
+540168; Au Maryland;34   rue Gabriel Péri;93200;Saint-Denis;93066;601391,655366;2437178,539240;café tabac
+540171; Le Rallye;10   route de St-Leu;93430;Villetaneuse;93079;600406,400000;2439013,950000;tabac presse
+540172; Tabac du Barrage;149   rue Gabriel Péri;93200;Saint-Denis;93066;601500,006535;2438434,309119;café tabac
+540173; Librairie Nasry;4   rue Gaston Dourdin;93200;Saint-Denis;93066;601053,005225;2438128,169003;librairie
+540174; Tabac de la Mairie;1   rue Carnot;93240;Stains;93072;603411,800000;2439730,100000;tabac
+540175;Librairie Gibouille;46   Bd  Foch;93800;Épinay-sur-Seine;93031;599562,380183;2438953,345924;librairie
+540176; Le Khedive;3   Place Victor Hugo;93200;Saint-Denis;93066;601597,615358;2437509,696928;café tabac
+540177; L'Express;2   Place du Genéral Leclerc;93380;Pierrefitte-sur-Seine;93059;602572,112079;2440653,156206;café tabac
+540178; Le Fontenoy;2   Square de Geyter;93200;Saint-Denis;93066;601176,041550;2437118,971223;café tabac
+540179; Le Diplomate;68   rue Gabriel Péri;93200;Saint-Denis;93066;601425,179000;2437445,390000;presse
+540180;Civette du Globe;107   av. de Stalingrad;93240;Stains;93072;603648,908732;2439086,160915;tabac loto
+540181;tabacde la Mutualité;44   Henri Barbusse;93200;Saint-Denis;93066;602601,960000;2438134,224000;tabac loto
+540182;  ;2   rue Gaston Philippe;93200;Saint-Denis;93066;601045,892000;2437814,888000;tabac presse
+540183; Tabac des Cosmonaut;1   rue Saint-Denis;93120;La Courneuve;93027;603379,797845;2436956,061293;café tabac
+540184;Le Havane;45   Bd Jean Jaurès;92110;Clichy;92024;597780,596000;2433522,603000;café tabac
+540185;Les Victoires;1   Pl. des Victoires;92600;Asnières-sur-Seine;92004;596726,962248;2434735,922695;café tabac
+540186; L'Élégance;67   Av. Gabriel-Péri;93400;Saint-Ouen;93070;599650,597047;2434175,337677;tabac
+540187;Le Celtique;33   R. de Villeneuve;92110;Clichy;92024;597896,818000;2434016,235000;café tabac
+540188;Le Havane;9   R. de la Station;92600;Asnières-sur-Seine;92004;596189,533000;2434247,307000;café tabac
+540189; Papeterie Stade de ;79   rue Danielle Casanova;93200;Saint-Denis;93066;602304,112720;2436289,818848;tabac librairie
+540190;Le Balto;29   R.de Paris;93380;Pierrefitte-sur-Seine;93059;601747,711190;2440746,298107;café tabac
+540191;Le Royal Club;222   avenue du président Wilson;93210;La Plaine-Saint-Denis;93900;601580,858571;2435209,316721;café tabac
+540192;Le Winston;91   Av. du Roule;92200;Neuilly-sur-Seine;92051;595377,602000;2431679,062000;café tabac
+540193;Le Clemenceau;4   Quai Georges Clemenceau;78380;Bougival;78092;585483,779278;2429913,589706;tabac presse
+540194;La Coupole D'Argent;1   R. Chantecoq;92800;Puteaux;92062;592862,809065;2431606,252974;tabac presse
+540195;Le Paris Neuilly;1   Pl. Parmentier;92200;Neuilly-sur-Seine;92051;595808,900000;2431348,850000;tabac loto
+540196;Le Saint Claude;33   R. des Bourets;92150;Suresnes;92073;592008,634715;2430072,357970;café tabac
+540198;Tabac Totem;81   Av. du Général de Gaulle;92800;Puteaux;92062;592298,216334;2432044,449334;tabac presse
+540199;Kiosque de la Mairie;133   Av. Achille Peretti;92200;Neuilly-sur-Seine;92051;595049,881470;2431793,218579;presse
+540200;Le Brazza;13   R. du Château;92200;Neuilly-sur-Seine;92051;594473,874524;2431975,341022;tabac loto
+540201;Le Havane;18   Pl. du Marché;92200;Neuilly-sur-Seine;92051;595484,144916;2431349,385700;café tabac
+540202;Civette de Neuilly;105   Av.Charles de Gaulle;92200;Neuilly-sur-Seine;92051;595198,630000;2431426,379000;tabac loto
+540203;Le Chiquito;5   R. des Bas Rogers;92150;Suresnes;92073;592588,277000;2431271,898000;café tabac
+540204;Le Flore;108   R. Jean Jaurès;92800;Puteaux;92062;592959,283000;2431606,586000;café tabac
+540205;Tabac Bécon;11   Bis Av. de la Liberté;92400;Courbevoie;92026;595017,466174;2434042,384397;tabac loto
+540206;Tabac de la Gare;9   Av. de l'Agent Sarre;92700;Colombes;92025;594390,235407;2436179,332821;tabac loto
+540207;Le Havane;3   rue Baudin - C Com Charas;92400;Courbevoie;92026;593676,979126;2433023,528189;civette
+540209;Le Louis XV;31   Bis R. des Bourguignons;92270;Bois-Colombes;92009;595338,923193;2435005,923094;tabac loto
+540210;Aux Sports;41   R.Saint-Denis;92700;Colombes;92025;594085,894896;2436180,666512;tabac loto
+540213;Mag Presse;25   Av. de l'Europe;92700;Colombes;92025;593170,639052;2436451,987347;presse
+540214;Le Brazza;41   R.  Antonin Georges Belin;95100;Argenteuil;95018;593492,697661;2438676,002575;tabac loto
+540215;Tabac la Grâce;5   Av. Gabriel Péri;95870;Bezons;95063;591086,543441;2436663,746754;tabac loto
+540216;Le Village;3   R. du Bounard;92700;Colombes;92025;593844,833339;2436092,176705;tabac loto
+540217;Mag Presse du Fgb;5   Av. Léonard de Vinci;92400;Courbevoie;92026;592566,989955;2433120,012206;tabac presse
+540218;Le Victor Hugo;29   R. Victor Hugo;95870;Bezons;95063;591604,709010;2436857,990221;café tabac
+540219;Tabac du Marché;2   R. Voltaire;92250;La Garenne-Colombes;92035;593431,636000;2434508,866000;café tabac
+540220;Tabac la Basilique;2   R. Henri Barbusse;95100;Argenteuil;95018;593431,797837;2438170,929203;café tabac
+540221;Le Chiquito;3   R. de Colombes;92400;Courbevoie;92026;594126,313000;2433217,792000;café tabac
+540222;Hotel de Ville Café;12   Rd Point du Souvenir Français;92250;La Garenne-Colombes;92035;593538,033631;2434210,900969;café tabac
+540223;Le Mondial;8   Pl. Louis Aragon;92700;Colombes;92025;592134,049024;2435192,444544;tabac loto
+540224;Saveurs de Colombes;125   Av. de Stalingrad;92700;Colombes;92025;594879,042302;2437060,078811;boulangerie
+540225;L‘euphrate;34   R.Edgar Quinet;92700;Colombes;92025;593491,721347;2436245,097316;tabac loto
+540226;Les Arcades;4   R. Athime Rué;92380;Garches;92033;589029,050000;2427384,150000;café tabac
+540227;Le Celtique;41   R. Armand Silvestre;92400;Courbevoie;92026;594722,009709;2433610,988879;café tabac
+540228;La Divette;61   R. Paul Vaillant Couturier;95100;Argenteuil;95018;593777,005067;2438498,469152;café tabac
+540229;La Porte des Ternes;108   Av. des Ternes;75017;Paris ;75117;596242,300000;2431378,436000;tabac loto
+540230;A Jean Bart;2   R. Jouffroy d'Abbans;75017;Paris ;75117;598347,151213;2432115,561419;café tabac
+540231;Lumière des Justes;21   R. des Moines;75017;Paris ;75117;598732,100000;2432265,350000;presse
+540232;Cépage Montmartrois;65   R. Caulaincourt;75018;Paris ;75118;599945,605023;2432357,667657;café tabac
+540233;Le Voltigeur;118   Bd  Berthier;75017;Paris ;75117;597385,694831;2432256,616279;tabac librairie
+540234;Le Flash;25   Bd  Ornano;75018;Paris ;75118;600867,631152;2432766,117198;café tabac
+540235;Librairie - Presse;106   Bd Berthier;75017;Paris ;75117;597507,331946;2432359,097644;presse
+540236;Le Narval;17   R. des Dames;75017;Paris ;75117;599146,700000;2431839,700000;café tabac
+540237;Le Courcelles;94   Bd de Courcelles;75017;Paris ;75117;597554,165960;2431206,453618;café tabac
+540238;Tabac Point Presse;2   R. Frédéric Schneider Hall 1;75018;Paris ;75118;600136,385000;2433324,235000;tabac presse
+540239;Le Maillot;78   Av. de la Grande Armée;75017;Paris ;75117;596152,659862;2430994,520343;café tabac
+540240;Tabac Forest;5   R. Forest;75018;Paris ;75118;599476,504977;2431853,766718;tabac loto
+540243;Cité de lLa Presse;29   R.Tristan-Tzara;75018;Paris ;75118;601923,929000;2433019,582500;tabac presse
+540244;Civette Des Arts;62   R. Damrémont;75018;Paris ;75118;599852,051200;2432512,800000;civette
+540245;La Caravelle;14   R. d'Amsterdam;75009;Paris ;75109;599292,199076;2430887,603288;café tabac
+540246;Le Tocqueville;55   Bd Pereire;75017;Paris ;75117;597867,556682;2432136,290713;café tabac
+540247;Le Clignancourt;79   Bd Ornano;75018;Paris ;75118;600600,050000;2433241,950000;café tabac
+540248;Le Celtic;89   R. de la chapelle;75018;Paris ;75118;601661,919137;2433280,201976;café tabac
+540249;Le Lamarck;55   R. Lamarck;75018;Paris ;75118;600159,047000;2432406,487000;café tabac
+540250;L'Ariel;20   R. des Martyrs;75009;Paris ;75109;600221,099000;2431055,945000;café tabac
+540251;Le Marigny;30   R. des Batignolles;75017;Paris ;75117;598843,322000;2431859,986000;café tabac
+540252;Le Calumet;29   R. Ramey;75018;Paris ;75118;600742,824000;2432262,913500;civette
+540253;Divette de Clichy;18   Av. de Clichy;75018;Paris ;75118;599285,832000;2431848,233000;café tabac
+540254;La Civette Péreire;210   Bd Péreire;75017;Paris ;75117;596432,946000;2431313,387000;civette
+540255;Le Marigny;1   avenue Laumière;75019;Paris 19e;75119;603313,962000;2431585,610000;café tabac
+540257;Tabac L'Horloge;212   avenue Jean Jaurès;75019;Paris 19e;75119;604151,689961;2432278,347233;tabac loto
+540258;Tabac Loto Pmu;1   rue de Romainville;75019;Paris 19e;75119;604601,424670;2430807,070378;tabac loto
+540259;La Plume D'Or;10   boulevard de la Villette;75019;Paris 19e;75119;602906,298870;2430525,630697;tabac loto
+540260;Tabac Presse;36   avenue Simon Bolivar;75019;Paris 19e;75119;603360,317000;2430770,707000;tabac presse
+540261;Tabac La Gitane;3   rue Lassus;75019;Paris 19e;75119;603858,548400;2430762,822000;tabac loto
+540262;Tabac Presse;37   rue Alphonse Karr;75019;Paris 19e;75119;603141,601843;2433040,699689;tabac librairie
+540263;Le Saint Cyr;22   Bd Gouvion Saint-Cyr;75017;Paris ;75117;596485,306302;2431726,805113;civette
+540264;Le Rallye;79   Bd  Barbès;75018;Paris ;75118;600960,107594;2432582,539796;café tabac
+540265;Tabac Le Rallye;107   rue Manin;75019;Paris 19e;75119;603776,818294;2431659,652737;tabac loto
+540266;Le Concorde;146   avenue Jean Jaurès;75019;Paris 19e;75119;603688,258000;2432092,851000;café tabac
+540267;Civette Brunet;2   avenue de la porte Brunet;75019;Paris 19e;75119;604317,774072;2431674,726219;civette
+540268;L‘Energie;65   R. de Maubeuge;75009;Paris ;75109;600952,709181;2431263,843521;café tabac
+540269;Le Bolivar;125   avenue Simon Bolivar;75019;Paris 19e;75119;602746,432997;2431382,134007;tabac
+540270;Le Totem;156   rue Danielle Casanova;93300;Aubervilliers;93001;604751,355000;2435219,111000;librairie
+540272;Le Rallye;11   avenue Jean Jaurès;93300;Aubervilliers;93001;603922,017055;2433726,768524;café tabac
+540273;  ;23   rue du commandant L'Herminier;93300;Aubervilliers;93001;603706,456351;2435598,761100;tabac presse
+540275;Le Balto;125   boulevard Magenta;75010;Paris 10e;75110;601166,550000;2431337,100000;tabac loto
+540276;Le Reilhac;63   R. du Fbg Saint-Denis;75010;Paris ;75110;601285,804000;2430437,250000;café tabac
+540278;  ;120   rue Hélène Cochennec;93300;Aubervilliers;93001;604265,634002;2435724,739666;tabac presse
+540279;  ;10   rue du 8 Mai 1945;75010;Paris 10e;75110;601490,550000;2430896,450000;café tabac
+540280;Tabac De La Mairie;20   rue du Moutier;93300;Aubervilliers;93001;603344,311325;2435162,619355;café tabac
+540281;Le Saint Maur;217   rue saint-Maur;75010;Paris 10e;75110;602519,159335;2430531,347331;librairie
+540282;;4   rue Charron;93300;Aubervilliers;93001;603465,019208;2435155,498847;presse
+540283;Galaxie Millionnair;167   avenue Victor Hugo;93300;Aubervilliers;93001;603157,661000;2434823,774000;café tabac
+540284;La Vallée De Vinales;260   R.du faubourg saint-Martin;75010;Paris 10e;75110;602273,350776;2431634,828776;tabac
+540285;Le Derby;9   rue Chabrol;75010;Paris 10e;75110;601373,026881;2430918,701628;café tabac
+540287;Le Jean Bart;2   rue Charles Tillon;93300;Aubervilliers;93001;604066,120955;2435151,100546;café tabac
+540288;Le Terminus;4   Pl. Jacques Froment;75018;Paris ;75118;599624,550000;2432518,223000;café tabac
+540289;LE CALUMET;9   Avenue Secrétan;75019;Paris 19e;75119;602545,475655;2431534,641620;café tabac
+540290;Le Niel;42   R. Pierre Demours;75017;Paris ;75117;596966,950000;2431472,112000;café tabac
+540291;TABAC PORTE-CHAUMONT;84   Rue Manin;75019;Paris 19e;75119;604202,318585;2431982,977838;café tabac
+540292;  ;41   Av. Corentin Cariou;75019;Paris 19e;75119;603629,905467;2433318,856162;café tabac
+540293;LE NAVY;26   Rue du Chateau d'Eau;75010;Paris 10e;75110;601725,572000;2430210,860000;café tabac
+540294;Tabac de la Place ;123   Bd Péreire;75017;Paris ;75117;597165,363778;2431868,293314;tabac loto
+540295;Le Navigateur;103   Avenue Simon Bolivar;75019;Paris 19e;75119;602763,100000;2431091,800000;café tabac
+540296;Tabac Presse;125   Bd  Bessières;75017;Paris ;75117;598359,522536;2432904,523287;librairie
+540297;La Havane;4   Pl. de Clichy;75009;Paris ;75109;599362,063296;2431687,892568;café tabac
+540298;La Comète;50   R. Marx Dormoy;75018;Paris ;75118;601710,651467;2432190,852134;café tabac
+540299;Le Dunhill;38   R. de Rochechouart;75009;Paris ;75109;600666,244666;2431206,821998;café tabac
+540300;Tabac de l'Ourcq;98   R. de L'ourcq;75019;Paris ;75119;602707,051400;2432829,728352;tabac loto
+540301;Le Café du Quartier;228   R. Championnet;75018;Paris ;75118;599490,591000;2432799,799000;café tabac
+540302;LE LUTETIA;156   rue La Fayette;75010;Paris 10e;75110;601506,981000;2431223,042000;café tabac
+540303;LE PONT DE STAINS;128   Bd Felix Faure;93300;Aubervilliers;93001;603042,984000;2434485,997000;café tabac
+540304;Le Vizir;173   R. Ordener;75018;Paris ;75118;600024,000000;2432809,300000;café tabac
+540305;Le Brazza;53   R.de Tocqueville;75017;Paris ;75117;598078,400000;2431899,301000;café tabac
+540306;Le Gévaudan;28   R. de Lévis;75017;Paris ;75117;598417,141000;2431597,570000;café tabac
+540307;Le Boursault;62   R. des Dames;75017;Paris ;75117;598817,255000;2431697,915000;café tabac
+540308;La Renaissance;188   R. Ordener;75018;Paris ;75118;599716,813000;2432872,623000;café tabac
+540309;Le Celtique;39   avenue de la République;93300;Aubervilliers;93001;603555,389172;2434741,632126;café tabac
+540310;Le Reinitas;18   R. du Poteau;75018;Paris ;75118;600450,612908;2432790,455193;café tabac
+540311;Civette Bessière;95   Bd  Bessières;75017;Paris ;75117;598662,678093;2433091,037758;civette
+540313;Tabac;.   CC Bobigny2, Bd Maurice Thorez;93000;Bobigny;93008;608152,802047;2434277,175654;civette
+540314;  ;60   rue saint-Stenay;93700;Drancy;93029;606188,816058;2435811,028027;presse
+540315;  ;7   place Nicole Neuburger;93140;Bondy;93010;611299,027774;2433739,729004;tabac loto
+540316;Le Globe;27   avenue Pierre et Marie Curie;93150;Le Blanc-Mesnil;93007;609089,586000;2437517,590000;café tabac
+540317;Le Fontenoy;134   avenue de la Résistance;93340;Le Raincy;93062;613262,167000;2433439,802000;café tabac
+540320;Le Brazza;7   boulevard de la République;93130;Noisy-le-Sec;93053;609152,856500;2433061,997500;tabac presse
+540321;  ;2   square Stephenson;93130;Noisy-le-Sec;93053;609226,473261;2432145,922709;tabac presse
+540322;Le Belwo;63   avenue Louis Aragon;93000;Bobigny;93008;607645,162116;2435176,575851;café tabac
+540323;Presse;14   rue Arthur Fontaine;93700;Drancy;93029;608809,177959;2435821,718947;tabac presse
+540324;La Civette;4   boulevard de Chanzy;93190;Livry-Gargan;93046;613297,537333;2434501,202666;tabac loto
+540325;Au Bar Des Amis;38   Chemin de Groslay;93000;Bobigny;93008;609877,598544;2434331,296415;café tabac
+540328;L'Europeen;48   rue Honoré d'Estienne d'Orves;93000;Bobigny;93008;608770,759790;2434543,650624;tabac presse
+540329;Yanis;64   rue Jules Guesde;93140;Bondy;93010;610522,714077;2433895,035217;tabac librairie
+540330;La Civette;8   place du général de Gaulle;93340;Le Raincy;93062;612859,907023;2432494,577852;civette
+540331;Le Totem;C.Com   Beausevran Rte des Pts Ponts  ;93270;Sevran;93071;613557,912158;2439074,164015;tabac loto
+540332;Le Celtique;1   Bld Paul Vaillant Couturier;93700;drancy;93029;608014,695652;2436141,186957;café tabac
+540333; Le Régence;5   Av. du 8 Mai 1945;95200;Sarcelles;95585;602837,590432;2442090,297772;café tabac
+540334;  ;23   Av. de Commune de Paris;95140;Garges-lès-Gonesse;95268;604596,971571;2441447,344860;tabac presse
+540335; Bar Tabac l'Aviatic;30   Av. de la Division Leclerc;93350;Le Bourget;93013;606419,020862;2437215,425308;tabac loto
+540336; Tabac Le Muratti;2   Av. Jean Mermoz;93120;La Courneuve;93027;604609,291956;2437094,310134;café tabac
+540337; Le Saint Claude;54   Av. Jean Lolive;93500;Pantin;93055;604796,034378;2432533,154648;tabac loto
+540338; Tabac Victor Hugo;135   Av. Jean Lolive;93500;Pantin;93055;605563,605020;2432749,190457;tabac loto
+540339; Le Vaillant;130   Av. Paul Vaillant-Couturier;93120;La Courneuve;93027;605744,205200;2436270,605400;café tabac
+540340; Le Royal 4 Chemins;70   Av. Jean Jaurès;93500;Pantin;93055;604057,610332;2433892,946665;tabac loto
+540341; l'Imprevu;1   Av. Paul Vaillant-Couturier;93120;La Courneuve;93027;605219,716414;2435542,846920;café tabac
+540342;La Bonne Presse;8   rue Jean Jaurès;93130;Noisy-le-Sec;93053;608610,003315;2432505,639390;presse
+540343;Le Strasbourg;1   boulevard de Strasbourg;93600;Aulnay-sous-Bois;93005;611500,275000;2436887,694000;café tabac
+540344;Presse des 4 routes;61   Av. Paul Vaillant-Couturier;93120;La Courneuve;93027;605444,852098;2435862,095844;presse
+540345;Pep's;7   Place Gabriel Péri;93440;Dugny;93030;605914,178036;2439625,081929;librairie
+540346;Maison De La Presse;95   avenue Henri Barbusse;93700;Drancy;93029;608187,893956;2435566,748993;presse
+540347;  ;3   place de la porte de Vanves;75014;Paris 14e;75114;597698,723699;2425461,696501;librairie
+540348;Café D'Orléans;43   avenue du général Leclerc;75014;Paris 14e;75114;599426,956200;2425731,960200;café tabac
+540349;Les Facultés;110   rue d'Assas;75006;Paris 6e;75106;599860,361000;2427134,939000;café tabac
+540350;Civette Rennes;111   rue de Rennes;75006;Paris 6e;75106;599397,322771;2427795,189329;tabac librairie
+540351;Tabac De La Mairie;165   avenue du Maine;75014;Paris 14e;75114;599140,650000;2426054,200000;tabac
+540353;  ;2   avenue de la porte Didot;75014;Paris 14e;75114;598100,039000;2425339,486000;presse
+540354;Le Fontenoy;108   rue d'Alésia;75014;Paris 14e;75114;598978,388919;2425661,179815;café tabac
+540355;Le Rallye;81   rue de la Tombe-Issoire;75014;Paris 14e;75114;599696,440717;2425456,286620;café tabac
+540356;  ;50   rue du Cherche-Midi;75006;Paris 6e;75106;599214,661000;2427873,814000;tabac presse
+540357;Tabac Saint-Michel;22   rue saint-André-des-Arts;75006;Paris 6e;75106;600477,050000;2428319,600000;tabac
+540358;  Tabac  presse loto;78   rue de Seine;75006;Paris 6e;75106;600038,700000;2428140,850000;tabac presse
+540359;Le Bergerac;102   avenue du général Leclerc;92340;Bourg-la-Reine;92014;598438,287189;2420098,497197;café tabac
+540360;Le Maryland;108   rue Didot;75014;Paris 14e;75114;598275,031647;2425329,260369;café tabac
+540361;La Royale;80   rue de L'Amiral Mouchez;75014;Paris 14e;75114;600474,506904;2424741,205112;café tabac
+540362;Presse Lanchas;207   rue d'Alésia;75014;Paris 14e;75114;598359,458000;2425936,897000;presse
+540363;Le Royal Ulis;.   avenue des Champs Lasniers;91940;Les Ulis;91692;587727,714871;2409533,350868;tabac
+540364;  ;6   R. d'Alger;91300;Massy;91377;596985,700000;2415188,950000;tabac librairie
+540365;La Sablière;32   rue de la Sablière;75014;Paris 14e;75114;598947,048740;2425967,077827;café tabac
+540366;Cafe Madame;25   rue de Vaugirard;75006;Paris 6e;75106;599645,065000;2427785,213000;tabac loto
+540367;Tabac Du Lion;5   avenue du général Leclerc;75014;Paris 14e;75114;599633,185000;2426096,078000;tabac
+540368;  ;47   rue Boulard;75014;Paris 14e;75114;599332,963330;2425963,426659;café tabac
+540369;Tabac Saint-Germain;64   rue de Seine;75006;Paris 6e;75106;600033,379000;2428322,068003;tabac
+540370;La Rotonde Du 14;7   place du 25 Août 1944;75014;Paris 14e;75114;599199,480000;2424846,000000;café tabac
+540371;La Civette D'Alésia;220   avenue du Maine;75014;Paris 14e;75114;599255,498507;2425627,942764;tabac
+540372;Le Marigny;92   rue Didot;75014;Paris 14e;75114;598465,725000;2425524,043000;tabac
+540373;  ;33   place de France;91300;Massy;91377;596466,163155;2414900,509033;tabac presse
+540374;Le Longchamps;88   avenue Aristide Briand;91420;Morangis;91432;599156,279700;2411321,328244;café tabac
+540376;Tabac Du Dôme;108   boulevard du Montparnasse;75014;Paris 14e;75114;599487,730000;2427063,098000;tabac
+540377;Le Brazza;9   rue de Sevres;75006;Paris 6e;75106;599420,654000;2428168,610000;café tabac
+540378;Le Commerce;56   avenue du général Leclerc;92340;Bourg-la-Reine;92014;598515,807115;2420390,093190;café tabac
+540379;Cafe Dauphine;17   rue Dauphine;75006;Paris 6e;75106;600247,220000;2428560,713000;café tabac
+540380;Tabac Porte D'Orlea;134   avenue du général Leclerc;75014;Paris 14e;75114;599201,312649;2425046,941792;café tabac
+540381;Le Carvès;130   avenue Aristide Briand;92120;Montrouge;92049;599276,299079;2423611,066433;café tabac
+540382;;141   rue Raymond Losserand;75014;Paris 14e;75114;598300,835661;2425897,507249;tabac librairie
+540383;Le Fumoir;4   Pl. Paul Vaillant Couturier;92130;Issy-les-Moulineaux;92040;595767,979646;2425394,396453;civette
+540384;Tabac Edgar Quinet;36   rue Delambre;75014;Paris 14e;75114;599170,860423;2426995,287480;tabac
+540385;Librairie Des Écoles;33   avenue des Écoles;91320;wissous;91689;599289,254500;2415397,475250;tabac librairie
+540386;;48   rue Raymond Losserand;75014;Paris 14e;75114;598752,985157;2426260,172482;librairie
+540387;L‘aviation;2   Rd-Pt Victor Hugo;92130;Issy-les-Moulineaux;92040;595364,877000;2425548,044000;café tabac
+540388;Le Fleury;82   Av. Henri Barbusse;92140;Clamart;92023;594248,763000;2423640,881000;café tabac
+540389;Tabac de la Gare;22   Av. Jacques Jezequel;92170;Vanves;92075;596706,079705;2424476,398712;café tabac
+540390;L‘Etoile;10   Route du Pavé Blanc;92140;Clamart;92023;592816,601419;2420321,309947;café
+540391;  ;29   boulevard de Stalingrad;92240;Malakoff;92046;596327,039457;2423997,769683;librairie
+540392;Maison de la Presse;10   Pl. François Spoerry;92350;Le Plessis-Robinson;92060;594509,357374;2420205,760617;tabac librairie
+540393;  ;14   rue Gambetta;92240;Malakoff;92046;597869,683227;2424978,364621;café tabac
+540394;  Fontaine aux Roses;113   rue Boucicaut;92260;Fontenay-aux-Roses;92032;596165,855605;2421704,236109;café tabac
+540395;  ;63   boulevard Gabriel Péri;92240;Malakoff;92046;597299,045000;2424537,064000;librairie
+540396;Au Fil Des Jours;102   avenue de Paris;92320;Châtillon;92020;596961,846047;2423266,630511;tabac presse
+540398;Bar Tabac Du Théâtr;20   rue Raymond Fassin;92240;Malakoff;92046;597477,827871;2424810,882925;café tabac
+540399;Le Montana;21   boulevard Stalingrad;92240;Malakoff;92046;596966,983068;2423661,773584;café tabac
+540400;Hall de Presse;1   R. Auguste Gervais;92130;Issy-les-Moulineaux;92040;595321,615000;2425063,772000;librairie
+540401;La Divette;63   avenue Aristide Briand;92120;Montrouge;92049;599203,324767;2424278,117705;café tabac
+540402;;59   avenue Pierre Larousse;92240;Malakoff;92046;597632,107400;2424800,087200;presse
+540403;Le Gaulois;101   avenue de la République;92120;Montrouge;92049;598550,318000;2423951,507000;café tabac
+540404;Tabac de la Mairie;21   R. de Trosy;92140;Clamart;92023;594570,841251;2422451,159851;tabac librairie
+540405;Au Départ;251   Av. Jean Jaurès;92140;Clamart;92023;595253,810162;2423894,634716;café tabac
+540406;Le Maine Anjou;4   R. Jean Jaurès;92170;Vanves;92075;597099,846534;2425052,401043;café tabac
+540407;Le New Maryland;62   Av. Jean Jaurès;92140;Clamart;92023;594810,700000;2422838,650000;café tabac
+540408; Le Voltaire;1   Pl. Voltaire;92290;Châtenay-Malabry;92019;595783,044719;2418649,698272;café tabac
+540409; A l‘Écritoire;125   Av. Jean Jaurès;92120;Montrouge;92049;597760,270090;2423859,784055;tabac librairie
+540410; Tabac de l'Observat;166   Bd du Montparnasse;75014;Paris 14e;75114;599951,384685;2426833,715569;café tabac
+540411; Le Petit Paris;39   Av. de la République;92120;Montrouge;92049;598801,336063;2424565,344694;tabac presse
+540412;  ;68   rue Henri Ginoux;92120;Montrouge;92049;598905,329000;2424292,832000;café tabac
+540413;La Bouffarde;177   boulevard Brune;75014;Paris 14e;75114;599016,377978;2425049,766291;café tabac
+540414;Côté Tabac;20   rue Littré;75006;Paris 6e;75106;599106,135200;2427368,568000;tabac loto
+540415;Café De La Mairie;1   rue de la Gare;92320;Châtillon;92020;596545,309645;2422414,016123;café tabac
+540416;Horizon 3   ;1   avenue de L Europe C. Cial Cor;91300;Massy;91377;595545,871000;2414303,546000;tabac librairie
+540417;Mi The Best;16   rue Molière;92120;Montrouge;92049;598377,431429;2423643,482143;presse
+540418;Tabac de la Gaité;49   Rue de la gaïté;75014;Paris 14e;75114;598980,137132;2426690,873725;café tabac
+540419;La Civette Bréa  ;54   rue Notre-Dame-des-Champs;75006;Paris 6e;75106;599567,124288;2427288,895053;tabac
+540420;Le Renoir;207   rue Raymond Losserand;75014;Paris 14e;75114;597856,188303;2425586,010110;café tabac
+540421;Le Cibiche;110   avenue Denfert-Rochereau;75014;Paris 14e;75114;599714,629280;2426237,029168;tabac
+540422;La Favorite;39   R. de Passy;75016;Paris ;75116;595908,214000;2428839,910000;tabac
+540423;Tabac de la Mairie;66   R. de la Pompe;75016;Paris ;75116;595582,044982;2429391,082801;tabac
+540424;Tabac de la Muette;6   Chaussée de la Muette;75016;Paris ;75116;595384,557530;2428876,190771;tabac
+540425;Mille et une Feuille;139   Av. de Versailles;75016;Paris ;75116;594970,642820;2427104,748653;presse
+540426;Le Mokafé;37   Route de la Reine;92100;Boulogne-Billancourt;92012;593421,536000;2426749,599000;tabac
+540427;La Pointe Presse;1945   Av. Roger Salengro;92370;Chaville;92022;588841,578957;2423072,487883;presse
+540428;Tabac du Dôme;24   R. Lauriston;75016;Paris ;75116;596726,241770;2430314,190879;tabac
+540429;L‘européen;22   Av.de L'Europe;92310;Sèvres;92072;590651,636314;2424954,053544;tabac
+540430;Le Bleu;22   R. Denfert-Rochereau;92100;Boulogne-Billancourt;92012;593245,747880;2427485,418776;tabac presse
+540432;Tabac de la Gare;19   R. Banes;92190;Meudon;92048;592979,300000;2423303,650000;tabac
+540433;Le Havane;50   Av. Jean-Baptiste Clément;92100;Boulogne-Billancourt;92012;592624,878596;2427461,692619;café tabac
+540434;Le Corona Impérial;70   Av. Kléber;75016;Paris ;75116;596619,924842;2429925,284730;café tabac
+540435;Le Balto;12   R. Pierre Midrin;92310;Sèvres;92072;590841,500000;2424924,650000;café tabac
+540436;Le Royal Tabac;1   R. Georges Clemenceau;78000;Versailles;78646;584954,324000;2422810,803000;café tabac
+540437;Le Diplomate;15   R. Singer;75016;Paris ;75116;595689,896136;2428653,500000;café tabac
+540438;L‘Edito;34   Av. Pierre Grenier;92100;Boulogne-Billancourt;92012;593734,515000;2425676,716000;librairie
+540440; Moulin d' Auteuill;75   R. d'Auteuil;75016;Paris ;75116;594430,429902;2427731,019402;café tabac
+540441;Flor de Cuba;1   Av. Raymond Poincaré;75016;Paris ;75116;595402,450091;2428171,058199;tabac
+540442;Le Lamartine;182   Av.. Victor Hugo;75016;Paris ;75116;595555,767000;2429710,125000;café tabac
+540443;Le Bouquet d'Auteuil;8   R. d'Auteuil;75016;Paris ;75116;594980,007650;2427689,638767;café tabac
+540445;Le Ribera;66   R. la Fontaine;75016;Paris ;75116;595155,332000;2428008,916000;café tabac
+540446;Le Mirabeau;2   R. Mirabeau;75016;Paris ;75116;595384,915153;2427673,964239;café tabac
+540447;Tabac Presse du Mail;28   Av. du Général de Gaulle;78140;Vélizy-Villacoublay;78640;588565,972000;2420768,877000;tabac presse
+540448;Le Franklin;1   R. Benjamin Franklin;75016;Paris ;75116;596203,224550;2428952,086386;café tabac
+540449;La Civ' Du Pont;253   Bd Jean Jaurès;92100;Boulogne-Billancourt;92012;593447,950204;2425387,911827;tabac presse
+540450;Le Molière;41   Av. Mozart;75016;Paris ;75116;595122,104778;2428569,637889;café tabac
+540451;Plum' 2000;174   R. de la Pompe;75016;Paris ;75116;596103,854000;2430308,509000;tabac presse
+540452;Le Chiquito;104   R. de Billancourt;92100;Boulogne-Billancourt;92012;592661,947247;2426427,968924;café tabac
+540453;Le Lutétia;127   Bd Jean Jaurès;92100;Boulogne-Billancourt;92012;593036,394000;2426494,183000;café tabac
+540455;Tabac des Musées;7   Av. Pierre 1er de Serbie;75016;Paris ;75116;596989,348000;2429690,918000;café tabac
+540456;Le  Lutétia;27   Av. Jean Baptiste Clément;92100;Boulogne-Billancourt;92012;592822,362068;2427591,141675;café tabac
+540457;La Liberté de Penser;41   Bd. de la République;92100;Boulogne-Billancourt;92012;593768,556000;2426005,578000;librairie
+540458;Le Magenta;1   Pl. Magenta;92210;Saint-Cloud;92064;590499,275099;2427114,168178;café tabac
+540459;La Camargue;18   All.  Marcel Simon;92360;Meudon-La-Forêt;92900;592534,510540;2421062,231725;café tabac
+540460;Le Rond-Point;2   R. du Port;92100;Boulogne-Billancourt;92012;592085,151699;2426980,344339;café tabac
+540461;Librairie du Parc;19   Av.du Maréchal Leclerc;92360;Meudon-La-Forêt;92900;591694,455710;2421296,792489;librairie
+540462;Le Silly;143   /149 R. de Silly;92100;Boulogne-Billancourt;92012;592448,155920;2426041,702686;tabac presse
+540463;Tabac De L'Assemblé;13   rue de Bourgogne;75007;Paris 7e;75107;598640,639000;2428990,314000;tabac
+540464;Le Lavoisier;32   Bd  Malesherbes;75008;Paris ;75108;598840,100000;2430593,300000;café tabac
+540465;Le Bar Bac;13   rue du Bac;75007;Paris ;75107;599428,940000;2428939,635000;tabac loto
+540466;Le Saint Claude;187   R. du Fbg Saint-Honoré;75008;Paris ;75108;597628,686874;2430792,533773;tabac loto
+540467;Le Paris Duquesne;41   avenue Duquesne;75007;Paris 7e;75107;598128,137161;2428104,277550;tabac
+540468;Tabac Musée D'Orsay;73   rue de Lille;75007;Paris 7e;75107;599168,440011;2429057,734519;tabac
+540469;Le Washington;27   R. Washington;75008;Paris ;75108;597572,744000;2430570,750000;tabac loto
+540470;Tabac Des Ministère;43   rue Vaneau;75007;Paris 7e;75107;598716,040598;2428145,901948;café tabac
+540471;Le Disque Bleu;60   R. du Théâtre;75015;Paris ;75115;596593,645000;2427751,941000;café tabac
+540473;Le Mont Vallon;5   R. de Vienne;75008;Paris ;75108;598894,853257;2430923,447054;café tabac
+540474;Le Castel;5   avenue de Suffren;75007;Paris 7e;75107;596729,438000;2428731,862000;tabac
+540475;Le Balto;216   R. de la Convention;75015;Paris ;75115;597195,935000;2426479,237000;tabac loto
+540476;Presse de la Poste;48   Bd de Vaugirard;75015;Paris ;75115;598494,812000;2426950,682000;librairie
+540477;Invalides;23   avenue de la Motte-Picquet;75007;Paris 7e;75107;597866,696668;2428582,119002;tabac
+540478;  ;2    R. Lecourbe;75015;Paris ;75115;598105,441000;2427407,758000;librairie
+540479;Le Chamois;355   R. de Vaugirard;75015;Paris ;75115;597005,258000;2426504,412000;tabac
+540480;Le Brazza;294   296 R. de Vaugirard;75015;Paris ;75115;597203,070000;2426660,674000;tabac loto
+540481;L'Auvergne à Paris;102   R. Blomet;75015;Paris ;75115;597316,306000;2426930,209000;café tabac
+540482;Les Favorites;125   R. Cambronne;75015;Paris ;75115;597627,674074;2426898,884115;tabac loto
+540484;La Civette De L'Alm;15   avenue Rapp;75007;Paris 7e;75107;597403,900200;2429120,270200;civette
+540485;Le Lutétia;14   avenue de Tourville;75007;Paris 7e;75107;597898,650000;2428423,041000;café tabac
+540486;Press'tation;45   Bis R. de Vouillé;75015;Paris ;75115;597910,723000;2426169,246000;presse
+540487;Le Wilson;75   R. Labrouste;75015;Paris ;75115;597756,764000;2425917,371000;café tabac
+540488;Tabac du Rocher;91   R. du Rocher;75008;Paris ;75108;598569,578000;2431381,648000;tabac
+540489;Le Centenaire;27   boulevard de la Tour-Maubourg;75007;Paris 7e;75107;598063,154000;2429059,848000;tabac loto
+540491;Tabac Aux Ministère;53   avenue de Ségur;75007;Paris 7e;75107;597913,680365;2427937,551668;café tabac
+540492;Le Lutèce;380   R. de Vaugirard;75015;Paris ;75115;596502,500000;2426075,900000;tabac loto
+540493;Olivia Tabac Eiffel;22   avenue de la Bourdonnais;75007;Paris 7e;75107;597173,035997;2428967,014670;tabac presse
+540494;Le Pot à Tabac;28   R. de la Pépinière;75008;Paris ;75108;598826,544384;2430735,629368;civette
+540495;A Rabelais;32   R. de la République;92190;Meudon;92048;592617,062229;2423268,939599;café tabac
+540496;Le Liège;45   R. d'Amsterdam;75008;Paris ;75108;599301,540000;2431251,360000;café tabac
+540497;SNC NA Cougoule;151   rue de l' Université;75007;Paris 7e;75107;597716,437000;2429202,421000;café tabac
+540498;Le Royal Exelmans;171   Av. de Versailles;75016;Paris ;75116;594742,551000;2426927,232000;café tabac
+540499;La Belle Pole;21   Grande rue;92310;Sèvres;92072;591454,396111;2425380,213764;tabac presse
+540500;Le  Balto;82   R. du Château;92100;Boulogne-Billancourt;92012;593185,016000;2427179,663000;café tabac
+540501;La Vitole;126   Bd  Murat;75016;Paris ;75116;594346,621191;2426538,731227;tabac loto
+540502;LE BALTO;74   rue de Sèvres;75007;Paris 7e;75107;598688,000000;2427690,000000;café tabac
+540503;Le Havane;188   Av. de Versailles;75016;Paris ;75116;594489,136899;2426762,118055;café tabac
+540504;Bistrot 19;4   R. Liot;92100;Boulogne-Billancourt;92012;592967,600000;2425999,550000;tabac presse
+540505;Tabac de la Tour;51   R. de la Tour;75016;Paris ;75116;595868,383470;2429151,923258;café tabac
+540506;Le Diplomate;252   R. de la Convention;75015;Paris ;75115;597489,616000;2426349,706000;café tabac
+540507;La Gitane;47   Bd de Grenelle;75015;Paris ;75115;596709,204000;2428159,293000;café tabac
+540508;Le Celtic;1   R. Mademoiselle;75015;Paris ;75115;596834,004915;2427242,300000;café tabac
+540509;Tabac de la Mairie;61   Grande Rue;92310;Sèvres;92072;590855,460283;2425119,496103;café tabac
+540510;Le  Flash;38   R. Paul Barruel;75015;Paris ;75115;597739,399613;2426603,036310;tabac loto
+540511;Le Joli Mai;29   Av. du Général de Gaulle;92360;Meudon-La-Forêt;92900;591937,198826;2421002,227808;café tabac
+540512;Le Beau Site;140   Bd de la République;92210;Saint-Cloud;92064;590927,502231;2428172,763382;café tabac
+540513;La Civette D'Auteuil;37   R. Chanez;75016;Paris ;75116;594298,705000;2427450,544000;tabac presse
+540514;Bistro de la Reine;8   Route de la Reine;92100;Boulogne-Billancourt;92012;593735,137000;2426707,501000;café tabac
+540515;Le Muguet;1494   Av. Roger Salengro;92370;Chaville;92022;589110,154037;2423427,878721;tabac presse
+540516;Les  Volutes;114   R. de la Convention;75015;Paris ;75115;596453,550000;2426955,200000;civette
+540517;L' Espace Tabac;1   R. Clapeyron;75008;Paris ;75108;599132,189666;2431370,916465;tabac loto
+540518;Bistro Saint-Cirgues;206   R. de Grenelle;75007;Paris 7e;75107;597581,608000;2428717,648000;café tabac
+540519; Le St Cloud;24   R de St Cloud;92410;Ville-d'Avray;92077;589280,073738;2425563,957069;café tabac
+540520;Toute la Presse;106   R.du Point du Jour;92100;Boulogne-Billancourt;92012;593490,420453;2425644,529495;tabac presse
+540521;Le p'tit resto;62   R. St-Lambert;75015;Paris ;75115;596841,833000;2426418,063000;café tabac
+540522;Le Messager;3   Pl. d' Isigny;78000;Versailles;78646;587130,986999;2422635,593334;tabac presse
+540523;Civette Art Galerie;177   R. de Vaugirard;75015;Paris ;75115;598312,980975;2427206,395940;civette
+540524;L' Escale bosquet;33   Ave.  Bosquet;75007;Paris 7e;75107;597578,121001;2428972,344228;presse
+540525;Le Jasmin;30   R. du Dct. Blanche;75016;Paris ;75116;594782,440895;2428419,698523;civette
+540526;  Le Gamin de Paris;139   boulevard saint-Michel;75005;Paris 5e;75105;600092,183874;2427040,872051;café tabac
+540527;Le Twickenham;68   boulevard saint-Germain;75005;Paris 5e;75105;600800,500000;2428002,350000;café tabac
+540528;  ;43   rue des Petits-Champs;75001;Paris 1er;75101;599953,808597;2429849,791799;tabac librairie
+540529;  Le Saint-Mandé;41   rue Linné;75005;Paris 5e;75105;601323,100429;2427527,438913;café tabac
+540530;Tabac Presse;9   rue de Blainville;75005;Paris 5e;75105;600866,785363;2427343,058090;tabac librairie
+540531;Tabac Les Peupliers;1   rue Charles Fourier;75013;Paris 13e;75113;601211,922974;2425068,577125;café tabac
+540532;  ;65   boulevard Kellermann;75013;Paris 13e;75113;600970,409012;2424705,472697;tabac loto
+540533;Le Marijan;20   Bd Arago;75013;Paris 13e;75113;600883,725000;2426374,425000;café tabac
+540534;  ;137   Bd Auguste Blanqui;75013;Paris 13e;75113;600488,038501;2425855,258833;presse
+540536;Calumet Des Halles;47   rue Montorgeuil;75002;Paris 2e;75102;600758,886000;2429632,730000;civette
+540537;  Velipa;48   rue du Javelot;75013;Paris 13e;75113;602103,976432;2425187,006101;presse
+540538;La Marly;252   rue de Rivoli;75001;Paris 1er;75101;599093,828399;2429775,505023;café tabac
+540539;Tabac de la Poste;25   rue du Rendez-Vous;75012;Paris 12e;75112;604893,820000;2427491,155000;café tabac
+540540;Tabac Grand Ciel  ;C.Com   30 Bd Paul Vaillant-Couturier;94200;Ivry-sur-Seine;94041;604391,064607;2424575,269303;tabac
+540541;Le Dugommier;240   rue de Charenton;75012;Paris 12e;75112;603899,706620;2426696,282030;café tabac
+540542;  ;82   avenue de saint-Mandé;75012;Paris 12e;75112;605037,826424;2427368,176558;tabac presse
+540543;Le Balto;3   rue Pierre Curie;94200;Ivry-sur-Seine;94041;602875,017998;2424100,020832;café tabac
+540544;Presse Okbi;91   rue Barrault;75013;Paris 13e;75113;600752,563805;2424946,438546;librairie
+540545;  Le Rallye;64   rue de Tolbiac;75013;Paris 13e;75113;602352,220000;2425433,103000;café tabac
+540547;Le Rond Point  ;32   rue Vergniaud;75013;Paris 13e;75113;600668,474000;2425505,355000;café tabac
+540548;La Civette De Bercy;4   passage saint-Emilion;75012;Paris 12e;75112;603682,476213;2426086,555173;civette
+540549;Tabac Notre-Dame;19   rue de la bucherie;75005;Paris 5e;75105;600852,848448;2428199,559638;tabac
+540550;Le Tabaclub;45   Av d'Italie;75013;Paris 13e;75113;601506,550000;2425414,600000;tabac presse
+540551;Le Losange;150   rue saint-Denis;75002;Paris 2e;75102;601030,650000;2429695,650000;tabac loto
+540552;Athéna;56   R. Jacques Hillairet;75012;Paris 12e;75112;603915,015405;2427274,182503;tabac loto
+540553;Le Narval;58   rue Jeanne d' Arc;75013;Paris 13e;75113;602189,639605;2425883,269399;café tabac
+540554;Vanita ;66   rue Montmartre;75002;Paris 2e;75102;600598,237000;2429719,999000;café tabac
+540555;Collège De France;21   rue Jean de Beauvais;75005;Paris 5e;75105;600733,704000;2427842,190000;café tabac
+540556;La Fontaine;3   Bd saint-Michel;75005;Paris 5e;75105;600536,778000;2428271,620000;café tabac
+540557;Le Saint-Claude;101   rue Claude Decaen;75012;Paris 12e;75112;604374,339305;2426731,211700;café tabac
+540558;;1   rue du Marché saint Honoré;75001;Paris 1er;75101;599582,191000;2429687,657000;librairie
+540559;Le Week-End;36   rue Gay-Lussac;75005;Paris 5e;75105;600403,309000;2427337,434000;café tabac
+540560;La Tabacase;30   avenue d'Italie;75013;Paris 13e;75113;601462,431046;2425627,147471;tabac loto
+540561;Le Diplomate;48   Av. du Gal Michel Bizot;75012;Paris 12e;75112;604715,371000;2426250,261000;café tabac
+540562;La Terrasse  ;1   place Lachambeaudie;75012;Paris 12e;75112;603642,604000;2426372,472000;café tabac
+540563;Iris Cafe;2   Bd. de Picpus;75012;Paris 12e;75112;604687,043915;2426821,895716;café tabac
+540564;  ;16   boulevard Chastenay de Gery;94270;Le Kremlin-Bicêtre;94043;601593,945282;2423043,330791;tabac presse
+540565;Le Jean Bart ;81   avenue de Fontainebleau;94270;Le Kremlin-Bicêtre;94043;601892,250000;2423562,600000;café tabac
+540566;Le Crozatier;43   rue Crozatier;75012;Paris 12e;75112;603244,643000;2427745,978000;café tabac
+540567;Pourquoi Pas;136   Av d'Italie;75013;Paris 13e;75113;601594,439849;2424983,556858;café tabac
+540568; Tabac du Vieux Moul;75   avenue Maurice Thorez;94200;Ivry-sur-Seine;94041;602864,604579;2424369,398014;café tabac
+540569;Le Celtic;19   rue Rambuteau;75004;Paris 4e;75104;601365,781000;2429149,405000;café tabac
+540570;Le Progrès;1   rue de Bretagne;75003;Paris 3e;75103;602057,434000;2429294,762000;café tabac
+540571;Le Saint-Louis;37   rue des Deux-Ponts;75004;Paris 4e;75104;601500,063889;2428216,109445;café tabac
+540572;Tabac Des Vosges;25   rue de Turenne;75004;Paris 4e;75104;602030,798668;2428660,288003;civette
+540573;Au Metro;24   rue Beaubourg;75003;Paris 3e;75103;601260,924460;2429251,208831;café tabac
+540575;Civette De La Basti;4   rue de la Bastille;75004;Paris 4e;75104;602286,813333;2428389,125000;civette
+540576;Tabac Du Renard;6   rue du Renard;75004;Paris 4e;75104;601130,526000;2428888,201000;café tabac
+540577;Le Gribouille;44   rue de Rivoli;75004;Paris 4e;75104;601377,808757;2428694,969518;café tabac
+540579;Tabac Des Écoles;79   rue de Paris;94220;Charenton-le-Pont;94018;605609,232000;2424855,153000;café tabac
+540580;Maison De La Presse;17   rue Paul Verlaine;94410;Saint-Maurice;94069;609132,070959;2424053,695106;tabac presse
+540581;Le Fabregas;4   place de L'Europe;94220;Charenton-le-Pont;94018;604240,962218;2425218,394403;tabac loto
+540582;La Plume Verte;25   avenue Charles Gides;94270;Le Kremlin-Bicêtre;94043;601239,603000;2423169,765000;tabac librairie
+540583;Presse Loto;28   rue Charles Frérot;94250;Gentilly;94037;601121,686325;2424157,532834;librairie
+540584;Brazza;28   avenue Eugène Thomas;94270;Le Kremlin-Bicêtre;94043;601631,550000;2423493,475000;café tabac
+540585;Le Village;18   rue A. Damalix;94410;Saint-Maurice;94069;606277,095000;2424787,956000;café tabac
+540587; Le Narval;247   rue de Charenton;75012;Paris 12e;75112;604052,390357;2426482,677224;café tabac
+540588; Le Virginie;1   R. de Reuilly;75012;Paris ;75112;603543,275688;2427962,180624;café tabac
+540589;Tabac Tolbiac;34   rue de Tolbiac;75013;Paris 13e;75113;602670,901000;2425563,136000;tabac presse
+540590;L'Aubrac;1   av. marechal de lattre de tass;94220;Charenton-le-Pont;94018;606106,490429;2424452,603797;tabac loto
+540591;Espace Tabac;26   rue de Reuilly;75012;Paris 12e;75112;603715,331426;2427619,947780;tabac loto
+540592;;47   Av.de Choisy;75013;Paris 13e;75113;601928,188726;2424905,794280;tabac loto
+540593; Au Bon Tabac;20    R. Émile Raspail;94110;Arcueil;94003;599643,418000;2422518,018000;tabac
+540594;  ;76   boulevard Soult;75012;Paris 12e;75112;605429,721155;2427380,100999;tabac presse
+540595;Tabac De La Mairie;11   place Gambetta;94230;Cachan;94016;599864,754606;2421896,345096;café tabac
+540596;  tabac de patay;75   rue de Patay;75013;Paris 13e;75113;602697,699600;2425341,889600;tabac loto
+540597;Les Pyramides;212   avenue du 8 Mai 1945;93150;Le Blanc-Mesnil;93007;607754,150000;2439437,300000;presse
+540598;Les Maraîchaux;2   Avenue du maréchal Joffre;92380;Garches;92033;588987,839213;2426713,108437;café tabac
+540599;Tabac de la Reynie;26   rue de la Reynie;75001;Paris 1er;75101;600867,209475;2429093,452391;tabac
+540600;L'ATMOSPHERE;5   rue de l'Abreuvoir;92400;Courbevoie;92026;594065,996933;2432475,089956;café tabac
+540601;Civette De Pavillons;116   avenue Jean Jaurès;93320;Les Pavillons-sous-Bois;93057;612332,014000;2434015,432000;café tabac
+540602;Le Longchamp;69   avenue du maréchal Leclerc;93190;Livry-Gargan;93046;614759,100471;2435676,074428;tabac presse
+540603;L'empire;71   Bd Exelmans;75016;Paris 16e;75116;594387,761920;2427182,441258;café tabac
+540604;Les Sablons;30   R. Greuze;75016;Paris ;75116;596031,220483;2429563,428558;café tabac
+540605;Le Celtique;1   R. de L'Arrivée;92250;La Garenne-Colombes;92035;593046,325000;2434647,530000;café tabac
+540606;O'NARVAL;7   place André Gide;95200;SARCELLES;95585;602414,974204;2441760,678482;tabac presse
+540607;LA TABATIERE;4   place de la Libération;95200;SARCELLES;95585;602994,750532;2444220,253003;café tabac
+540608;Le Longchamp;23   R. de la Butte-aux-Cailles;75013;Paris ;75113;600958,130665;2425477,396000;tabac presse
+540609;Tabac De L'Empire;59   Bd de Stalingrad;94400;Vitry-sur-Seine;94081;603359,651536;2422143,394563;café tabac
+540610;La Maj'uscule;103   R. d'Estienne d'Orves;91370;Verrières-le-Buisson;91645;594359,000000;2415855,450000;librairie
+540611; Victoria;106   Av. Anatole France;94400;Vitry-sur-Seine;94081;604983,086000;2423239,865000;café
+540612;Restaurant KARS 36;194   R.Anataole France;93700;DRANCY;93029;608742,550000;2437301,850000;café
+540613;Le Celtique;1   rue Anatole France;93130;Noisy-le-Sec;93053;608537,448307;2432421,809041;café tabac
+540614;LE BALTO;44   Bd Jules Guesde;93200;Saint-Denis;93066;601001,206000;2437674,361000;café tabac
+540615;Le Marly;54   Av. du Roule;92200;Neuilly-sur-Seine;92051;595635,053379;2431595,536624;civette
+540616;Brasserie Les Sports;34   R.Rivay;92300;Levallois-Perret;92044;596588,369000;2432826,036000;café tabac
+540617;Le Nouveau Siècle;156   Av. de Saint-Ouen;75018;Paris ;75118;599441,620000;2433233,164002;café tabac
+540618;Le Cyrano;6   Pl. de la Gare des Vallées;92250;La Garenne-Colombes;92035;594231,145000;2435011,654000;café tabac
+540619;Le Balto;63   Av. de la Grande Armée;75016;Paris ;75116;596362,298896;2430859,156881;café tabac
+540620;Tabac Presse;17   R. du Pavé de Grignon;94320;Thiais;94073;604669,361603;2417576,977527;tabac librairie
+540621;La Civette Davout;108   Bd Davout;75020;Paris ;75120;605384,545975;2428901,118671;civette
+540622;Le Week End;59   R. Turbigo;75003;Paris ;75103;601495,899000;2429703,890000;café tabac
+540623;Le Disque Bleu;23   R. de Wattignies;75012;Paris ;75112;604232,313997;2426446,857334;café tabac
+540624;Le Café Ponce;17   R. Poncelet;75017;Paris ;75117;597092,498291;2431197,625022;café tabac
+540625;Le Villiers;100   Av. Pasteur;93100;Montreuil;93048;607234,118247;2429859,640630;café tabac
+540626;Au Soleil Levant;83   Av. Victor Hugo;92170;Vanves;92075;596754,428000;2425217,739000;café tabac
+540627;Le Tabac du Terminus;8   Pl. de la Porte de Saint-Cloud;75016;Paris ;75116;594183,245872;2426664,878940;civette
+540628;Le Lutétia;161   R. Legendre;75017;Paris ;75117;599171,924000;2432529,409000;tabac loto
+540629;Le Rénitas;102   Av. d'Argenteuil;92600;Asnières-sur-Seine;92004;596080,626394;2435170,407475;café tabac
+540630;L'évidence;19   Av. des Ternes;75017;Paris ;75117;597023,439411;2431104,478062;café tabac
+540631;Le Jouffroy;47   R. Jouffroy d'Abbans;75017;Paris ;75117;597850,730894;2431881,412791;café tabac
+540632;Totem;35   Av. Paul Vaillant-Couturier;93240;Stains;93072;603329,080987;2439386,449162;tabac librairie
+540633;Le Coq D'Or;88   rue du faubourg saint-Martin;75010;Paris ;75110;601553,620000;2430478,992000;café tabac
+540634;Le Tom Tip;48   R. Étienne Dolet;94140;Alfortville;94002;606518,058783;2421944,182434;café tabac
+540635;Civette Du Bel-Est;28   Av. du Gén. de Gaulle;93170;Bagnolet;93006;605936,811857;2429610,460473;civette
+540636;L' Amicale;9   R. des Trois Bornes;75011;Paris ;75111;602590,777000;2429782,868000;tabac loto
+540637;Civette Euryale;45   R. Linois;75015;Paris ;75115;596226,851806;2427637,825870;civette
+540638;Le Brezin;6   R. Brezin;75014;Paris ;75114;599447,063867;2425836,004282;café tabac
+540639;Le Royal Strasbourg;34   Bd de Strasbourg;75010;Paris ;75110;601421,925000;2430434,464000;café tabac
+540640;Le Bergerac;108   R. Etienne Dolet;94140;Alfortville;94002;606565,483236;2421328,199685;café tabac
